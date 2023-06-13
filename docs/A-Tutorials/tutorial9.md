@@ -20,7 +20,7 @@ description: Tutorial 9 - Regular Expressions
 
 **Course Slides:**
 
-- Week 9 Lecture 1 Notes: [PDF](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week9.pdf) \| [PPTX](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week9.pptx)
+- Week 9 Lecture 1 Notes: [PDF](/slides/OSL640-Week9.pdf) \| [PPTX](/slides/OSL640-Week9.pptx)
 
 **Regular Expressions:**
 
@@ -677,7 +677,7 @@ Write a single Linux command to perform the specified tasks for each of the foll
 
 ### Review Questions: Regular Expressions (Including Extended Regular Expressions)
 
-Here is a link to the [MS Word Document of ALL of the questions](https://matrix.senecacollege.ca/~osl640/questions/osl640_command_practice_9B.docx) displayed below but with extra room to answer on the document to simulate a quiz
+Here is a link to the [MS Word Document of ALL of the questions](/files/osl640_command_practice_9b.docx) displayed below but with extra room to answer on the document to simulate a quiz
 
 Your instructor may take-up these questions during class. It is up to the student to attend classes in order to obtain the answers to the following questions. Your instructor will NOT provide these answers in any other form (eg. e-mail, etc).
 

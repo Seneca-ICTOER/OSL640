@@ -19,7 +19,7 @@ description: Tutorial 6 - File Transfer and Sending Email Messages
 
 **Course Slides:**
 
-- Week 6 Lecture 1 Notes: [PDF](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week6.pdf) \| [PPTX](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week6.pptx)
+- Week 6 Lecture 1 Notes: [PDF](/slides/OSL640-Week6.pdf) \| [PPTX](/slides/OSL640-Week6.pptx)
 
 **Definitions:**
 
@@ -620,7 +620,7 @@ mail -s "email with attachment" yoursenecaid@myseneca.ca < ~/remote/myfile.txt
 
 The purpose of this section is to obtain **extra practice** to help with **quizzes**, your **midterm**, and your **final exam**.
 
-Here is a link to the [MS Word Document of ALL of the questions](https://matrix.senecacollege.ca/~osl640/questions/osl640_week6_practice.docx) displayed below but with extra room to answer on the document to simulate a quiz
+Here is a link to the [MS Word Document of ALL of the questions](/files/osl640_week6_practice.docx) displayed below but with extra room to answer on the document to simulate a quiz
 
 Your instructor may take-up these questions during class. It is up to the student to attend classes in order to obtain the answers to the following questions. Your instructor will NOT provide these answers in any other form (eg. e-mail, etc).
 

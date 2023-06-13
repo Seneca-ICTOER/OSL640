@@ -20,7 +20,7 @@ description: Tutorial 11 - Sed and Awk Utilities
 
 **Course Slides:**
 
-- Week 10 Lecture 1 Notes: [PDF](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week11.pdf) \| [PPTX](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week11.pptx)
+- Week 10 Lecture 1 Notes: [PDF](/slides/OSL640-Week11.pdf) \| [PPTX](/slides/OSL640-Week11.pptx)
 
 **Text Manipulation:**
 
@@ -391,7 +391,7 @@ awk -F";" '$1 ~ /^f/ {print $2,$4}' cars2.txt | tee awk-9.txt
 
 The purpose of this section is to obtain **extra practice** to help with **quizzes**, your **midterm**, and your **final exam**.
 
-Here is a link to the [MS Word Document of ALL of the questions](https://matrix.senecacollege.ca/~osl640/questions/osl640_week11_practice.docx) displayed below but with extra room to answer on the document to simulate a quiz
+Here is a link to the [MS Word Document of ALL of the questions](/files/osl640_week11_practice.docx) displayed below but with extra room to answer on the document to simulate a quiz
 
 Your instructor may take-up these questions during class. It is up to the student to attend classes in order to obtain the answers to the following questions. Your instructor will NOT provide these answers in any other form (eg. e-mail, etc).
 

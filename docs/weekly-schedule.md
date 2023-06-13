@@ -70,10 +70,10 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Linux Installation Methods | **Week 7 Lecture 1 Notes:** [PDF](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week7.pdf) \| [PPTX](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week7.pptx) | [Tutorial 7 - Installing Linux / Live Linux / Virtualization](/A-Tutorials/tutorials1.md) |
+| Linux Installation Methods | **Week 7 Lecture 1 Notes:** [PDF](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week7.pdf) \| [PPTX](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week7.pptx) | [Tutorial 7 - Installing Linux / Live Linux / Virtualization](/A-Tutorials/tutorial7.md) |
 | Linux Installation Considerations |  | Tutorial 7 (Due Friday, April 21 @ 11:59 PM) (2.5%) |
 | Virtualization |  | Quiz 2 (6.6%) |
-| System Administration Commands: (su,sudo,visudo,ping,dnf) |  | [Project](/B-Projects/project.md) |
+| System Administration Commands: (su,sudo,visudo,ping,dnf) |  | [Project](/B-Project/project.md) |
 
 ### Study Week
 
@@ -120,7 +120,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Text Manipulation: | **Week 11 Lecture 1 Notes:** [PDF](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week11.pdf) \| [PPTX](/slides/ULI101-10.1.pptx) | [Tutorial 11: Sed and Awk Utilities](/A-Tutorials/tutorial11.md) |
+| Text Manipulation: | **Week 11 Lecture 1 Notes:** [PDF](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week11.pdf) \| [PPTX](https://matrix.senecacollege.ca/~osl640/slides/OSL640-Week11.pptx) | [Tutorial 11: Sed and Awk Utilities](/A-Tutorials/tutorial11.md) |
 | - Using the sed Utility |  | Tutorial 11 (Due Friday, April 21 @ 11:59 PM) (2.5%) |
 | - Using the awk Utility |  |  |
 

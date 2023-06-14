@@ -17,9 +17,9 @@ description: Tutorial 6 - File Transfer and Sending Email Messages
 
 ## Tutorial Reference Material
 
-**Course Slides:**
+**Lecture Slides:**
 
-- Week 6 Lecture 1 Notes: [PDF](/slides/OSL640-Week6.pdf) \| [PPTX](/slides/OSL640-Week6.pptx)
+- Week 6 Lecture Slides: [PDF](/slides/OSL640-Week6.pdf) \| [PPTX](/slides/OSL640-Week6.pptx)
 
 **Definitions:**
 

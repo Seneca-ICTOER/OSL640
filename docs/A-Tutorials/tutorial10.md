@@ -20,9 +20,9 @@ description: Tutorial 10 - Shell Scripting - Part 1
 
 ## Tutorial Reference Material
 
-**Course Slides:**
+**Lecture Slides:**
 
-- Week 10 Lecture 1 Notes: [PDF](/slides/OSL640-Week10.pdf) \| [PPTX](/slides/OSL640-Week10.pptx)
+- Week 10 Lecture Slides: [PDF](/slides/OSL640-Week10.pdf) \| [PPTX](/slides/OSL640-Week10.pptx)
 
 **Shell Scripting:**
 

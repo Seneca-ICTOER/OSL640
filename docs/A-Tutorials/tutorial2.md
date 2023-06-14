@@ -18,7 +18,7 @@ description: Tutorial 2 - Unix and Linux File Management
 
 **Lecture Slides:**
 
-- Week 2 Lecture 1 Notes: [PDF](/slides/OSL640-Week2.pdf) \| [PPTX](/slides/OSL640-Week2.pptx)
+- Week 2 Lecture Slides: [PDF](/slides/OSL640-Week2.pdf) \| [PPTX](/slides/OSL640-Week2.pptx)
 
 **Tutorials:**
 

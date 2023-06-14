@@ -18,9 +18,9 @@ description: Tutorial 11 - Sed and Awk Utilities
 
 ## Tutorial Reference Material
 
-**Course Slides:**
+**Lecture Slides:**
 
-- Week 10 Lecture 1 Notes: [PDF](/slides/OSL640-Week11.pdf) \| [PPTX](/slides/OSL640-Week11.pptx)
+- Week 10 Lecture Slides: [PDF](/slides/OSL640-Week11.pdf) \| [PPTX](/slides/OSL640-Week11.pptx)
 
 **Text Manipulation:**
 

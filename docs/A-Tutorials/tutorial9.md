@@ -18,9 +18,9 @@ description: Tutorial 9 - Regular Expressions
 
 ## Tutorial Reference Material
 
-**Course Slides:**
+**Lecture Slides:**
 
-- Week 9 Lecture 1 Notes: [PDF](/slides/OSL640-Week9.pdf) \| [PPTX](/slides/OSL640-Week9.pptx)
+- Week 9 Lecture Slides: [PDF](/slides/OSL640-Week9.pdf) \| [PPTX](/slides/OSL640-Week9.pptx)
 
 **Regular Expressions:**
 

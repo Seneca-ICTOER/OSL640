@@ -20,9 +20,9 @@ description: Tutorial 5 - Redirection - Standard Input, Standard Output, and Sta
 
 ## Tutorial Reference Material
 
-**Course Slides:**
+**Lecture Slides:**
 
-- Week 5 Lecture 1 Notes: [PDF](/slides/OSL640-Week5.pdf) \| [PPTX](/slides/OSL640-Week5.pptx)
+- Week 5 Lecture Slides: [PDF](/slides/OSL640-Week5.pdf) \| [PPTX](/slides/OSL640-Week5.pptx)
 
 **Redirection:**
 

@@ -18,9 +18,9 @@ description: Tutorial 1 - Using Your Matrix Account
 
 ## Tutorial Reference Material
 
-**Course Slides / Software:**
+**Lecture Slides:**
 
-- Week 1 Lecture 1 Notes: [PDF](/slides/OSL640-Week1.pdf) \| [PPTX](/slides/OSL640-Week1.pptx)
+- Week 1 Lecture Slides: [PDF](/slides/OSL640-Week1.pdf) \| [PPTX](/slides/OSL640-Week1.pptx)
 
 **Windows SSH client Software:**
 
@@ -29,19 +29,17 @@ description: Tutorial 1 - Using Your Matrix Account
 - [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download)
 - [MovaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)
 
-#### Linux Command/Shortcut Reference
-
-##### Matrix Account Access:
+**Matrix Account Access:**
 
 - [logout, exit](https://ss64.com/bash/logout.html)
 - [<ctrl\><d\>](https://www.quora.com/What-is-the-difference-between-typing-Ctrl+C-and-Ctrl+D-in-the-Linux-terminal)
 - [passwd](http://man7.org/linux/man-pages/man1/passwd.1.html)
 
-##### Command Line Editing:
+**Command Line Editing:**
 
 - [Bash Shell Shortcut Keys](https://www.ostechnix.com/list-useful-bash-keyboard-shortcuts/)
 
-##### General Linux Commands:
+**General Linux Commands:**
 
 | [pwd](http://man7.org/linux/man-pages/man1/pwd.1.html) | [cd](http://man7.org/linux/man-pages/man1/cd.1p.html) | [ls](http://man7.org/linux/man-pages/man1/ls.1p.html) | [cal](http://man7.org/linux/man-pages/man1/cal.1.html) | [date](http://man7.org/linux/man-pages/man1/date.1.html) | [who](http://man7.org/linux/man-pages/man1/who.1.html) , [w](http://man7.org/linux/man-pages/man1/w.1.html) | [whoami, who am i](http://man7.org/linux/man-pages/man1/whoami.1.html) | [clear, <ctrl\><l\>](http://man7.org/linux/man-pages/man1/clear.1.html) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

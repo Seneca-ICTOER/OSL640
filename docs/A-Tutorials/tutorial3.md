@@ -19,7 +19,7 @@ description: Tutorial 3 - Advanced File Management and Quoting Special Character
 
 **Lecture Slides:**
 
-- Week 3 Lecture 1 Notes: [PDF](/slides/OSL640-Week3.pdf) \| [PPTX](/slides/OSL640-Week3.pptx)
+- Week 3 Lecture Slides: [PDF](/slides/OSL640-Week3.pdf) \| [PPTX](/slides/OSL640-Week3.pptx)
 
 **Pathname and Filename Expansion:**
 

@@ -20,9 +20,9 @@ description: Tutorial 8 - Links and Process Management
 
 ## Tutorial Reference Material
 
-**Course Slides:**
+**Lecture Slides:**
 
-- Week 8 Lecture 1 Notes: [PDF](/slides/OSL640-Week8.pdf) \| [PPTX](/slides/OSL640-Week8.pptx)
+- Week 8 Lecture Slides: [PDF](/slides/OSL640-Week8.pdf) \| [PPTX](/slides/OSL640-Week8.pptx)
 
 **Links:**
 

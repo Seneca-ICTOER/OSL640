@@ -19,9 +19,9 @@ description: Tutorial 4 - Data Representation, Numbering Conversion, and File Pe
 
 ## Tutorial Reference Material
 
-**Course Slides:**
+**Lecture Slides:**
 
-- Week 4 Lecture 1 Notes: [PDF](/slides/OSL640-Week4.pdf) \| [PPTX](/slides/OSL640-Week4.pptx)
+- Week 4 Lecture Slides: [PDF](/slides/OSL640-Week4.pdf) \| [PPTX](/slides/OSL640-Week4.pptx)
 
 **Numbering Conversion and Data Representation Definitions:**
 

@@ -17,9 +17,9 @@ description: Tutorial 12 - Shell Scripting - Part 2
 
 ## Tutorial Reference Material
 
-**Course Slides:**
+**Lecture Slides:**
 
-- Week 12 Lecture 1 Notes: [PDF](/slides/OSL640-Week12.pdf) \| [PPTX](/slides/OSL640-Week12.pptx)
+- Week 12 Lecture Slides: [PDF](/slides/OSL640-Week12.pdf) \| [PPTX](/slides/OSL640-Week12.pptx)
 
 **Control Flow Statements:**
 

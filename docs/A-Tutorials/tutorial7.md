@@ -16,9 +16,9 @@ description: Tutorial 7 - Installing Linux, Live Linux, and Virtualization
 
 ## Tutorial Reference Material
 
-**Course Slides:**
+**Lecture Slides:**
 
-- Week 7 Lecture 1 Notes: [PDF](/slides/OSL640-Week7.pdf) \| [PPTX](/slides/OSL640-Week7.pptx)
+- Week 7 Lecture Slides: [PDF](/slides/OSL640-Week7.pdf) \| [PPTX](/slides/OSL640-Week7.pptx)
 
 **Installing Linux:**
 

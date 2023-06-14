@@ -64,9 +64,6 @@ This requires that you **connect to a Linux server** (Matrix) and become comfort
 
 In Unix/Linux, a **shell** is simply an **interface** to allow a user to communicate with the Linux computer system (server). Linux shells have evolved (improved) over a period of time. You will be using the **Bash Shell** which is considered to be _user-friendly_. By understanding how to issue Linux commands, you can create a file that contains Linux commands (called a **shell script**) later in this course to automate tasks to make you a more **productive** Linux user and system administrator.
 
-A **shell** is an interface / interpreter to allow a user to communicate with the Linux computer system.
-
-
 ### Layout of the Matrix Linux Server
 
 The **Matrix server** consists of **several computers connected together** to form a **cluster.**

@@ -5,7 +5,7 @@ sidebar_position: 1
 description: Project
 ---
 
-# OSL640 Project
+# Project
 
 ## Overview
 

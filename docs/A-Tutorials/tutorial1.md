@@ -210,7 +210,7 @@ You can also install and run a free **MS Windows graphical SSH application** in 
 
 ![SSH Application Icon](/img/Ssh-application-icon.png)
 
-        - The main SSH Client window will appear. Let's learn how to connect to and login to our Matrix account using this graphical SSH application.
+   - The main SSH Client window will appear. Let's learn how to connect to and login to our Matrix account using this graphical SSH application.
 
 ![SSH Secure Shell Client Window](/img/Ssh-main-window.png "SSH Secure Shell Client Window")
 

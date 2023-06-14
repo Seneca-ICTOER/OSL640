@@ -144,7 +144,7 @@ ssh senecausername@matrix.senecacollege.ca
 
   **macOS:**
 
-  - Click Launchpad icon, type **terminal** and press **ENTER**
+  - Click _Launchpad_ icon, type **terminal** and press **ENTER**
   - In the terminal, enter the following command: 
 
 ```bash

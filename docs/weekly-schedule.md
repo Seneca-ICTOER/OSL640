@@ -5,7 +5,7 @@ sidebar_position: 2
 description: Weekly Schedule for OSL640
 ---
 
-# OSL640 Weekly Schedule
+# Weekly Schedule
 
 ### Week 1
 

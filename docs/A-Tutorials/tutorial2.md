@@ -571,7 +571,7 @@ We conclude this tutorial by learning to **manage**, **view** or **manipulate th
 | :--- | :---: |
 | **touch** |	Create empty file(s) / Updates Existing File's Date/Time Stamp |
 | **cat** |	Display text file's contents without editing (small files) |
-| **more** , less |	Display / Navigate within large text files without editing |
+| **more** , **less** |	Display / Navigate within large text files without editing |
 | **cp** |	Copy text file(s) |
 | **mv** |	Move / Rename text files |
 | **rm** |	Remove text file(s) |

@@ -329,11 +329,16 @@ Some Linux commands can be used as-is (e.g. `pwd`, `date`, `ls`, `cal`), but man
 An **argument** can respresent:
 
   1. A command **option.**
-    - Example: `-l`
+    
+        - Example: `-l`
+    
   2. A **file pathname.**
-    - Example: `/etc`
+    
+        - Example: `/etc`
+    
   3. A series of characters (i.e. **text**) that the command can use.
-    - Example: `"Hello, world."`
+    
+        - Example: `"Hello, world."`
 
 An **argument** must be separated from a command (or from other arguments) by whitespace (a **SPACE, MULTIPLE SPACES** or a **TAB**).
 
@@ -529,8 +534,8 @@ passwd
 
    - Unique to this college, your Linux password is changed automatically when you change your myseneca password.
 
-        1. - **Question:** What option for the passwd command can be used to change user info (such as name)?
-          - **Hint:** use the **man** command for **passwd.**
+        1. **Question:** What option for the passwd command can be used to change user info (such as name)?
+        - **Hint:** use the **man** command for **passwd.**
 
   12. Press the `q` key to exit the man command.
 
@@ -619,7 +624,7 @@ Although you are NOT required to learn other short-cut keys, here is a link to a
 
 **Running a Shell Script to Check Student Online Tutorial Participation**
 
-some Professors will require students successfully perform these online tutorials for marks (within a deadline). In order to confirm that you successfully performed a tutorial, you will be required to run a program (or in later tutorials, several programs) to prove that you successfully completed tasks in a tutorial and get marks.
+Some Professors will require students successfully perform these online tutorials for marks (within a deadline). In order to confirm that you successfully performed a tutorial, you will be required to run a program (or in later tutorials, several programs) to prove that you successfully completed tasks in a tutorial and get marks.
 
 These programs (known as Shell Scripts) will check your work and offer feedback if you made mistakes, so you can make corrections. Making corrections (i.e. troubleshooting) and re-running these checking programs until you are successful will help students gain "hands-on" experience as well as "trouble-shooting experience.
 

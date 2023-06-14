@@ -131,7 +131,7 @@ The **Seneca Student VPN** service must be connected.
 
 2. Determine which **operating system** that your computer is using.
 
-3. Try connecting to your Matrix account using the instructions in the **table** below based on your **current operating system.**
+3. Try connecting to your Matrix account using the instructions below based on your **current operating system.**
 
   **Newer Version of Windows 10 (or above):**
 

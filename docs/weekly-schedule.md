@@ -34,7 +34,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Absolute and relative pathnames | **Week 3 Lecture Slides:** [PDF](/slides/OSL640-Week3.pdf) \| [PPTX](/slides/OSL640-Week3.pptx) | [Tutorial 3: Advanced File Management / Quoting Special Characters](/A-Tutorials/tutorial3.md) |
+| Absolute and relative pathnames | **Week 3 Lecture Slides:** [PDF](/slides/OSL640-Week3.pdf) \| [PPTX](/slides/OSL640-Week3.pptx) | [Tutorial 3: Advanced File Management and Quoting Special Characters](/A-Tutorials/tutorial3.md) |
 | File name expansion |  | Tutorial 3 (Due Friday, March 10 @ 11:59 PM) (2.5%) |
 | Shell basics |  |  |
 | Command execution in detail |  | |
@@ -46,7 +46,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Data Representation: (Binary, octal, decimal, and hexadecimal number systems) | **Week 4 Lecture Slides:** [PDF](/slides/OSL640-Week4.pdf) \| [PPTX](/slides/OSL640-Week4.pptx) | [Tutorial 4: Data Representation / Numbering Conversion / File Permissions](/A-Tutorials/tutorial4.md) |
+| Data Representation: (Binary, octal, decimal, and hexadecimal number systems) | **Week 4 Lecture Slides:** [PDF](/slides/OSL640-Week4.pdf) \| [PPTX](/slides/OSL640-Week4.pptx) | [Tutorial 4: Data Representation, Numbering Conversion, and File Permissions](/A-Tutorials/tutorial4.md) |
 | Number conversions | | Tutorial 4 (Due Friday, March 10 @ 11:59 PM) (2.5%) |
 | Unix file permissions | | Quiz 1 (6.6%) |
 
@@ -63,14 +63,14 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| scp and sftp utilities | **Week 6 Lecture Slides:** [PDF](/slides/OSL640-Week6.pdf) \| [PPTX](/slides/OSL640-Week6.pptx) | [Tutorial 6: File Transfer / Sending Email](/A-Tutorials/tutorial6.md) |
+| scp and sftp utilities | **Week 6 Lecture Slides:** [PDF](/slides/OSL640-Week6.pdf) \| [PPTX](/slides/OSL640-Week6.pptx) | [Tutorial 6: File Transfer and Sending Email](/A-Tutorials/tutorial6.md) |
 | Sending email from command line | **Instructional Video:** [SSH, SCP and Other Network Tools](https://youtu.be/-Le-7U8tEOA) | Tutorial 6 (Due Friday, March 10 @ 11:59 PM) (2.5%) |
 
 ### Week 7
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Linux Installation Methods | **Week 7 Lecture Slides:** [PDF](/slides/OSL640-Week7.pdf) \| [PPTX](/slides/OSL640-Week7.pptx) | [Tutorial 7 - Installing Linux / Live Linux / Virtualization](/A-Tutorials/tutorial7.md) |
+| Linux Installation Methods | **Week 7 Lecture Slides:** [PDF](/slides/OSL640-Week7.pdf) \| [PPTX](/slides/OSL640-Week7.pptx) | [Tutorial 7 - Installing Linux, Live Linux, and Virtualization](/A-Tutorials/tutorial7.md) |
 | Linux Installation Considerations |  | Tutorial 7 (Due Friday, April 21 @ 11:59 PM) (2.5%) |
 | Virtualization |  | Quiz 2 (6.6%) |
 | System Administration Commands: (su,sudo,visudo,ping,dnf) |  | [Project](/B-Project/project.md) |

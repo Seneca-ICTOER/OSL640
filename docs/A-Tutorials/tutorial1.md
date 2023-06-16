@@ -448,7 +448,7 @@ whoami
    - **Question:** What does this command display?
    - **Question:** What do you think is the purpose of this command?
 
-  15. Issue the following Linux command: 
+  16. Issue the following Linux command: 
 
 ```bash
 cal
@@ -456,7 +456,7 @@ cal
 
    - **Question:** What is the purpose of this command?
     
-  16. Issue the following Linux command: 
+  17. Issue the following Linux command: 
 
 ```bash
 cal 2021
@@ -464,7 +464,7 @@ cal 2021
 
    - **Question:** What is the purpose of this command using this argument?
     
-  17. Issue the following Linux command: 
+  18. Issue the following Linux command: 
 
 ```bash
 cal 2 2021

@@ -263,7 +263,7 @@ Dialog Box to Share Public Key on Remote Server ^
 
    - If you continue to experience the same problems, click on the following link for IT service desk contact info: [IT service desk.](https://employees.senecacollege.ca/spaces/122/support/wiki/view/3524/contact-its)
 
-13. If you entered your password correctly and followed all login steps correctly, the **SSH Linux shell should appear** where you enter Linux commands.
+  12. If you entered your password correctly and followed all login steps correctly, the **SSH Linux shell should appear** where you enter Linux commands.
 
        - The **Matrix** server has been configured to allow users to **only interact with the Linux OS by issuing commands.** There are various reasons for this, but the main 2 reasons are to **force students to learn how to issue Linux commands** as well as **limitations to remote access to a graphical Linux server** due to large number of users (students).
 

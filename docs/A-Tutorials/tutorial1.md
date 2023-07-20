@@ -69,6 +69,8 @@ In Unix/Linux, a **shell** is simply an **interface** to allow a user to communi
 The **Matrix server** consists of **several computers connected together** to form a **cluster.**
 A **Linux cluster** is a **cost effective** alternative to buying larger servers.
 
+![Matrix Linux Server Layout](/img/Matrix-layout.png "Image of Matrix Linux Server Layout")
+
 All registered students in this course should have an account on the Matrix server.
 You will be using this account for the following reasons:
 
@@ -77,15 +79,13 @@ You will be using this account for the following reasons:
   - Performing **Linux Practice Tutorials (12)**
   - Performing **Linux Practice Questions**
 
-![Matrix Linux Server Layout](/img/Matrix-layout.png "Image of Matrix Linux Server Layout")
-
 ### Connecting to the Seneca GlobalProtect Student VPN
 
-All Seneca College students are required to connect to the **Seneca Student VPN** in order to be able to connect to their **Matrix** Linux account when outside of campus as a **network security** measure. The Seneca Student VPN uses **multi-factor authentication** (MFA) when logging in to verify you are who you say you are.
+Seneca College is "rolling-out" additional measures to improve **network security**. One of these measures is to implement **multi-factored authentication**. As of **September 2020**, all Seneca College students are required to connect to the **Seneca GlobalProtect Student VPN** in order to be able to connect to their **Matrix** Linux account.
 
 **Multi-factor authentication** _is an electronic authentication method in which a computer user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something the user and only the user knows). Reference: https://en.wikipedia.org/wiki/Multi-factor_authentication_
 
-You should have received an e-mail message with instructions (also available in course announcements) on how to set up your Smart Phone for multi-factor authentication to connect and validate via the Seneca GlobalProtect Student VPN. **Note** If you haven't installed it yet, please do so by following the ITS instructions here: https://students.senecacollege.ca/spaces/186/it-services/wiki/view/1025/student-vpn
+You should have received an e-mail message with instructions (also available in course announcements) on how to set up your Smart Phone for multi-factor authentication to connect and validate via the Seneca GlobalProtect Student VPN. **NOTE:** If you haven't installed it yet, please do so by following the ITS instructions here: https://students.senecacollege.ca/spaces/186/it-services/wiki/view/1025/student-vpn
 
 In the next investigation, you will learn how to **connect** to and **login** to your Matrix server account from a remote computer such as your **home desktop computer, laptop** or **tablet** computer.
 
@@ -476,7 +476,7 @@ cal 2 2021
 
 With the Linux OS containing over **2500** commands and utilities, it's important for Linux users and Linux system administrators (sysadmin) to learn how to use commands “on-the-fly”.
 
-The man utility is an interactive collection of manual pages that provides information on how to use a given command (i.e. **command usage, acceptable command arguments, command options, examples**).
+The **man** utility is an interactive collection of manual pages that provides information on how to use a given command (i.e. **command usage, acceptable command arguments, command options, examples**).
 
   1. Issue the following command for the manual page about the manual utility: `man man`
 
@@ -543,7 +543,7 @@ You will now learn how to perform **command line editing** to correct syntax err
 
 ### Command Line Editing
 
-Learning **shortcut keys** in any OS terminal will allow you to be more productive as a Linux user or Linux System Administrator (commonly referred to as: **Linux sysadmin**).
+Learning **shortcut keys** in any OS terminal will allow you to be more productive as a _Linux user_ or _Linux System Administrator_ (commonly referred to as: **Linux sysadmin**).
 
 | **Shortcut Key(s)** | **Purpose** |
 | :--- | :--- |
@@ -657,7 +657,7 @@ cd
       - Keep those confirmation email messages for the duration of this semester as proof that you have completed those checking scripts in case there is a discrepancy in tutorial grades.
 
 
-## LINUX PRACTICE QUESTIONS
+## Linux Practice Questions
 
 The purpose of this section is to obtain **extra practice** to help with **quizzes**, your **midterm**, and your **final exam**.
 

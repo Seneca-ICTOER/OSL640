@@ -348,13 +348,13 @@ cp /bin/ls ./ls.bk
 
 ## Investigation 2: Filename Expansion
 
-You will now get practice issuing Linux file management commands using filename expansion symbols. We will be using the directory structure that was created in the previous INVESTIGATION.
+You will now get practice issuing Linux file management commands using **filename expansion symbols**. We will be using the directory structure that was created in the previous INVESTIGATION.
 
-A great way to practice filename expansion, use the touch command to create a lot of empty filenames, write the ls Linux commands that use filename expansion, predict the filenames that will be display, and finally run the command to check your work.
+A great way to practice filename expansion, use the **touch** command to create a lot of empty filenames, write the **ls** Linux commands that use **filename expansion**, predict the filenames that will be display, and finally run the command to check your work.
 
 **Perform the following steps:**
 
-  1. Issue a Linux command to move to the examples directory (i.e. under practice directory as shown in diagram below).
+  1. Issue a Linux command to move to the **examples** directory (i.e. under _practice_ directory as shown in diagram below).
 
 ![Dir12](/img/Dir12.png)
 
@@ -497,7 +497,7 @@ file *.[tT][xX][tT]
 
 ![Dir12](/img/Dir12.png)
 
-  19. Issue a Linux command to confirm that you are now in the commands directory.
+  19. Issue a Linux command to confirm that you are now in the **commands** directory.
   20. Issue the following Linux command (lowercase "l" NOT the number "1"):
 
 ```bash
@@ -536,13 +536,13 @@ rm l[!s]
 This is file ab
 ```
 
-  25. Use a text editor (nano or vi) to create the file called cd in the commands directory that contains the line of text below, and then save editing changes to this file:
+  25. Use a text editor (nano or vi) to create the file called **cd** in the **commands** directory that contains the line of text below, and then save editing changes to this file:
 
 ```text
 This is file cd
 ```
 
-  26. Use a text editor (nano or vi) to create the file called ef in the commands directory that contains the line of text below, and then save editing changes to this file:
+  26. Use a text editor (nano or vi) to create the file called **ef** in the **commands** directory that contains the line of text below, and then save editing changes to this file:
 
 ```text
 This is file ef
@@ -577,7 +577,7 @@ In this investigation, you will learn **three unique methods** to quote special 
 
 **Perform the Following Steps:**
 
-  1. Issue a Linux command to confirmed that you are still in the **commands** directory (if not, change to the commands directory and confirm).
+  1. Issue a Linux command to confirmed that you are still in the **commands** directory (if not, change to the _commands_ directory and confirm).
 
 ![Quotation](/img/Quotation.png)
 
@@ -646,7 +646,7 @@ echo "* $USER *"
 
    - What happened? Why?
 
-  10. Let's use quoting special characters for a couple of other commands. Move to the **lesson2** directory. Confirm that you are currently located in the lesson2 directory.
+  10. Let's use quoting special characters for a couple of other commands. Move to the **lesson2** directory. Confirm that you are currently located in the _lesson2_ directory.
 
    - **NOTE:** Although it is NOT RECOMMENDED to create a filename using a special character (remember file naming rules?), we will create an empty file called "\*"
 

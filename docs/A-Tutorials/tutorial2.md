@@ -81,7 +81,7 @@ The following table displays and defines **commonly used directories** (listed b
 
 When you log into your Matrix account, you are automatically directed to your **home** directory. This directory is where the user can store files, and create subdirectories to organize their files.
 
-## Investigation 1: Creating & Managing Directories
+## Investigation 1: Creating and Managing Directories
 
 **ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 2) is by March 10 @ 11:59 PM (Week 8).**
 
@@ -196,9 +196,9 @@ mkdir notes tutorials samples
 
   13. Issue a Linux command to confirm that those directories have been created. (you should already know how to do this).
 
-   - There are better ways to create the same directory structure without using the **cd** command.
-   - Issuing the **cd** command **prior** to issuing other commands indicates to others that you are a novice or "**newbie**".
-   - You can actually **lose marks** on quizzes or tests if you issue multiple Linux commands to performed tasks that can be performed using a single Linux command with **pathnames**.
+       - There are better ways to create the same directory structure without using the **cd** command.
+       - Issuing the **cd** command **prior** to issuing other commands indicates to others that you are a novice or "**newbie**".
+       - You can actually **lose marks** on quizzes or tests if you issue multiple Linux commands to performed tasks that can be performed using a single Linux command with **pathnames**.
 
   14. Issue the following Linux command to return to your home directory: 
 
@@ -208,7 +208,7 @@ mkdir notes tutorials samples
 
   15. Issue a Linux command to confirm that you are now located in your home directory.
 
-   - Although we will teach you how to **remove** directories and their contents in another investigation, let's remove the created directory structure' and **recreate** the same directory structure using just one command using pathnames.
+       - Although we will teach you how to **remove** directories and their contents in another investigation, let's remove the created directory structure' and **recreate** the same directory structure using just one command using pathnames.
 
   16. Issue the following Linux command to remove all of the directories that you have created:
 
@@ -241,7 +241,7 @@ For Example:
   - Making syntax errors (eg. spelling or mixing up character case)
   - Not creating subdirectories within specified directories.
 
-To check for mistakes, a **shell script** has been created to check your work. If the checking shell script detects an **error**, then it will provide feedback and offer constructive feedback on how to fix that problem so you can re-run the checking shell scripts until your work is correct. Errors (WARNINGS) are indicated in red as WARNING and should be corrected. Steps correctly done are indicated as OK in green
+To check for mistakes, a **shell script** has been created to check your work. If the checking shell script detects an **error**, then it will provide feedback and offer constructive feedback on how to fix that problem so you can re-run the checking shell scripts until your work is correct. Errors (WARNINGS) are indicated in red as `WARNING` and should be corrected. Steps correctly done are indicated as `OK` in green
 
 **Perform the Following Steps:**
 

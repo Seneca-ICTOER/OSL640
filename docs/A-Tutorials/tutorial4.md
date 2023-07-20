@@ -52,9 +52,9 @@ Digital computers are **electronic devices** that contain a series of **circuits
 
 ![Binary Number 1](/img/Binary-number1.png)
 
-IT professionals may need to perform **numbering conversion** to use with programming functions or OS commands to perform common operations on a computer system.
+IT professionals may need to perform **numbering conversion** to use with _programming functions_ or _OS commands_ to perform common operations on a computer system.
 
-IT Professionals that use data representation:
+_IT Professionals that use data representation:_
   - _Network Specialists:_ Building Large Networks via Sub-netting
   - _Programmers:_ Sending information over networks, files
   - _Web Developers:_ Setting color codes for webpage background or text
@@ -166,9 +166,9 @@ A symbol dash "-" indicates that the permission has **NOT** been granted.
 
 The permissions of **newly-created** directories and regular files are automatically assigned via a **user mask** (we will discuss this shortly). In order to change permissions for directories and regular files, you would use the **chmod** command.
 
-### Changing File Permissions - chmod:
+### Changing File Permissions with "chmod" command
 
-#### Symbolic Method:
+#### Symbolic Method
 
 The chmod can use **symbols** to _add, remove,_ and _set_ **rwx** permissions for the **user**, **same group members**, and/or **other group members** for a directory or reqular file.
 
@@ -179,7 +179,7 @@ The chmod can use **symbols** to _add, remove,_ and _set_ **rwx** permissions fo
 | `chmod go-w ~/shared` | Remove write permissions for same group members and other group members and other group members for the directory **~/shared** |
 | `chmod a=rx myfile.txt` | Set read and execute permissions for the file **myfile.txt** |
 
-#### Octal (Absolute) Method:
+#### Octal (Absolute) Method
 
 You can also use **octal numbers** to **set** permissions. This method is a short-cut and may require less typing than using the _symbolic_ method. You can only use this method to set file permissions (as opposed to _add_ or _remove_ permissions.
 
@@ -189,7 +189,7 @@ Since 1 octal digit represents 3 binary digits, one octal digit can represent th
 
 **NOTE:** You can use the **-R** option to set permissions for directory, subdirectory and directory contents **recursively**.
 
-### Setting Permissions for Newly-Created Directories and Regular Files - umask:
+### Setting Permissions for Newly-Created Directories and Regular Files (umask)
 
 The **umask** command is used to set the permissions of newly-created directories and regular files.
 
@@ -517,7 +517,12 @@ Your instructor may take-up these questions during class. It is up to the studen
   4. How many **binary** digits does 1 hexadecimal digit represent?
   5. Use **manual numbering conversion** to complete the table displayed below.
 
-![Number conversion chart](/img/Number-conversion-chart.png)
+| Decimal | Binary | Octal | Hexadecimal |
+| --- | --- | --- | --- |
+| 101 |  |  |  |
+|  | 11110011 |  |  |
+|  |  | 56 |  |
+|  |  |  | AC |
 
   6. Write the **chmod** command (using the _symbolic_ method) to set “**pass-through**” permissions (eg. **r w x - - x - - x**) for your **home** directory using an **absolute pathname**.
 

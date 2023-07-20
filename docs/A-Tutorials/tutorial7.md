@@ -40,7 +40,7 @@ description: Tutorial 7 - Installing Linux, Live Linux, and Virtualization
 
 ## KEY CONCEPTS
 
-**Installing Linux**
+### Installing Linux
 
 Having a Linux system on your home computer provides **access** to a large selection of **open source software**.
 
@@ -54,10 +54,10 @@ Reference: https://en.wikipedia.org/wiki/Linux_distribution
 
 _Steps in the Linux Installation Process:_
 
-  - **Select** a Linux Distribution to **download** (ISO image file or VM file).
+  - **Select** a _Linux Distribution_ to **download** (ISO image file or VM file).
   - **Create** VM and **install** Linux Distribution or **run** VM file.
 
-**Linux Installation Methods**
+### Linux Installation Methods
 
 **Standalone Installation**
 

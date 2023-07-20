@@ -79,7 +79,7 @@ scp user@host:file-pathname local-pathname
 
 The most common **mistake** that students make is forgetting to add the **colon** character ":" after the remote hostname.
 
-The user name in the command can be **omitted** if it's the same as on the local host. Multiple file and recursive directory copy (i.e. option **-r**) is supported.
+The user name in the command can be **omitted** if it's the same as on the local host. Multiple file and recursive directory copy (i.e. option **-R**) is supported.
 
 ### Secure File Transmission Control Protocol (sftp)
 
@@ -95,7 +95,7 @@ _Command Usage:_
 sftp username@hostname
 ```
 
-When you login via the _sftp_ command, the **sftp prompt** appears. The sftp prompt is like a Bash shell prompt, but with a limited number of commands. When issuing sftp commands, the local server relates to the server where you first issued the sftp command. Refer to the diagram on the right for local and remote sftp commands.
+When you login via the _sftp_ command, the **sftp prompt** appears. The sftp prompt is like a Bash shell prompt, but with a limited number of commands. When issuing sftp commands, the local server relates to the server where you first issued the sftp command. Refer to the diagram on the right for local and remote _sftp_ commands.
 
 **Graphical SFTP Applications**
 
@@ -348,10 +348,10 @@ Let's look at using the **sftp** command on your **local** machine.
 **Perform the Following Steps:**
 
   1. Make certain that you are in a command terminal on your local computer (i.e. do **NOT** log into your Matrix account).
-  2. Issue a command (depending on your OS) to confirm that you are located in the **local** directory in your home computer.
 
 ![CMD](/img/Cmd.png)
-
+  
+  2. Issue a command (depending on your OS) to confirm that you are located in the **local** directory in your home computer.
   3. If you are in MS Windows, open the `NotePad` application to create a text file (otherwise: use another text editor like **vi** or **nano**)
   4. Enter a few lines of text, and then click on the **File** menu and select **save as** (save as the filename `thefile.txt` in your `local` directory) and then **exit** the _Notepad_ text editor.
 
@@ -384,10 +384,10 @@ sftp yoursenecaid@matrix.senecacollege.ca
 | Display directory contents | **lls** | **ls** |
 | Create directory | **lmkdir** | **mkdir** |
 | Change directory location | **lcd** | **cd** |
-| Upload file to remote server | **put** | |
-| Download file to local server | **get** | |
+| Upload file to remote server | **put** | - |
+| Download file to local server | **get** | - |
 
-  10. Issue the following sftp command: 
+  10. Issue the following _sftp command_: 
 
 ```bash
 pwd
@@ -395,7 +395,7 @@ pwd
 
    - What is the pathname? Which server does this represent: local or remote?
 
-  11. Issue the following sftp command: 
+  11. Issue the following _sftp command_: 
 
 ```bash
 lpwd
@@ -403,26 +403,26 @@ lpwd
 
    - What is the pathname? Which server does this represent: local or remote?
 
-  12. Issue the following sftp command to create a directory on your remote server: 
+  12. Issue the following _sftp command_ to create a directory on your remote server: 
 
 ```bash
 mkdir remote2
 ```
 
-  13. Issue the following sftp command to confirm that the **remote2** directory has been created in your _remote_ server's home directory: 
+  13. Issue the following _sftp command_ to confirm that the **remote2** directory has been created in your _remote_ server's home directory: 
 
 ```bash
 ls
 ```
 
-  14. Issue the following sftp command to change to the **remote2** directory on your remote server:
+  14. Issue the following _sftp command_ to change to the **remote2** directory on your remote server:
 
 ```bash
 cd remote2
 ```
 
   15. Issue the **pwd** _sftp command_ to confirm that you have changed to the _remote2_ directory on your remote server.
-  16. Issue the following sftp command to change to the **local** directory on your local computer:
+  16. Issue the following _sftp command_ to change to the **local** directory on your local computer:
 
 ```bash
 lcd local
@@ -439,7 +439,7 @@ put thefile.txt
 
       - Let's create another directory on your local computer called **local2** so we can learn to download a file from your remote directory.
 
-  20. Issue the following sftp command to change to the **parent** directory on your local computer:
+  20. Issue the following _sftp command_ to change to the **parent** directory on your local computer:
 
 ```bash
 lcd ..
@@ -511,6 +511,8 @@ is **NOT** a _Windows_ machine, you can skip this investigation.
   7. Click the **Quick Connect** button located in the Secure SFTP application window.
 
         - **NOTE**: The Connect dialog box allows the user to specify the **server name** and your **account name** to allow you to connect to the server.
+
+![SFTP Quick Connect Dialog](/img/Sftp-connect.png)
 
   8. Click on the textbox labelled **Hostname** and type the text: `matrix.senecacollege.ca`
   9. Click on the textbox labelled **User Name** and type your Seneca username (i.e. same as your Seneca userid).

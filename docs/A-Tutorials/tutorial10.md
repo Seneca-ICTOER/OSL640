@@ -103,7 +103,7 @@ Examples of using **Environment** and **User Defined** variables.
 
 **User Defined Variables**
 
-**User-defined** variables are variables that can be used in the shell script for **customized** purposes.
+**User-defined variables** are variables that can be used in the shell script for **customized** purposes.
 
 Data can be stored and removed within a variable using an **equal sign** (no spaces on either side of equal sign).
 
@@ -142,7 +142,7 @@ _Usage:_
 
 or
 
-**command1 `command2`**
+**command1 \`command2\`**
 
 _Examples:_
 
@@ -306,13 +306,7 @@ which hello
 
 ```bash
 echo
-```
-
-```bash
 echo "Hello $USER"
-```
-
-```bash
 echo
 ```
 
@@ -362,7 +356,7 @@ chmod u+x hello
 
 Proceed to the next investigation.
 
-## Investigation 2: She-Bang Line, Variables, and Parameters
+## Investigation 2: Using Variables In Shell Scripts
 
 In this investigation, you will add a **she-bang line** at the top of your shell script to force the shell script to run in a specified shell when executed. You will also learn how to use **variables**, **positional** and **special parameters** to make your shell scripts more adaptable.
 
@@ -764,7 +758,7 @@ echo
 
 In the next investigation, you will use **control-flow statements** to allow your shell scripts to perform differently under different situations.
 
-## Investigation 4: Control Flow Statements
+## Investigation 4: Using Control Flow Statements In Shell Scripts
 
 In this investigation, you will learn how to use **control-flow statements** to make your shell script behave _differently_ under _different situations or conditions_.
 
@@ -1062,7 +1056,7 @@ Your instructor may take-up these questions during class. It is up to the studen
 
 **Review Questions:**
 
-**Part A: Write Bash Shell Script Code**
+### Part A: Write Bash Shell Script Code
 
 **Write the answer to each question below the question in the space provided.**
 
@@ -1082,7 +1076,7 @@ Your instructor may take-up these questions during class. It is up to the studen
 
   4. Write a Bash shell script that will clear the screen and then display all **arguments** that were entered after your Bash shell script when it was run. Also have the Bash shell script display the **number of arguments** that were entered after your Bash shell script.
 
-**Part B: Walk-Thrus**
+### Part B: Walk-Thrus
 
 **Write the expected output from running each of the following Bash shell scripts You can assume that these Bash shell script files have execute permissions. Show your work.**
 

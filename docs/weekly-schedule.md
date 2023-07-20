@@ -11,7 +11,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Course introduction | **Week 1 Lecture Slides:** [PDF](/slides/OSL640-Week1.pdf) \| [PPTX](/slides/OSL640-Week1.pptx) | [Tutorial 1 - Using Your Matrix Server Account](/A-Tutorials/tutorial1.md) |
+| Course introduction | **Week 1 Lecture Slides:** [PDF](/slides/OSL640-Week1.pdf) \| [PPTX](/slides/OSL640-Week1.pptx) | [Tutorial 1 - Using Your Matrix Account](/A-Tutorials/tutorial1.md) |
 | Course Resources/Evaluation/Policies | **Links to Windows SSH clients:** (Access Matrix from home): [SSH/SFTP](https://www.sfsu.edu/ftp/win/ssh/SSHSecureShellClient-3.2.9.exe) \| [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) \| [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download) \| [MovaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) | Tutorial 1 (Due Friday, March 10 @ 11:59 PM) (2.5%) |
 | Unix/Linux Background |  | |
 | Open source philosophy |  |  |
@@ -64,7 +64,7 @@ description: Weekly Schedule for OSL640
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
 | scp and sftp utilities | **Week 6 Lecture Slides:** [PDF](/slides/OSL640-Week6.pdf) \| [PPTX](/slides/OSL640-Week6.pptx) | [Tutorial 6: File Transfer and Sending Email](/A-Tutorials/tutorial6.md) |
-| Sending email from command line | **Instructional Video:** [SSH, SCP and Other Network Tools](https://youtu.be/-Le-7U8tEOA) | Tutorial 6 (Due Friday, March 10 @ 11:59 PM) (2.5%) |
+| Sending email from command line |  | Tutorial 6 (Due Friday, March 10 @ 11:59 PM) (2.5%) |
 
 ### Week 7
 
@@ -107,7 +107,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Introduction to Shell Scripting: | **Week 10 Lecture Slides:** [PDF](/slides/OSL640-Week10.pdf) \| [PPTX](/slides/OSL640-Week10.pptx) | [Tutorial 10: Shell Scripting (Part 1)](/A-Tutorials/tutorial10.md) |
+| Introduction to Shell Scripting: | **Week 10 Lecture Slides:** [PDF](/slides/OSL640-Week10.pdf) \| [PPTX](/slides/OSL640-Week10.pptx) | [Tutorial 10: Shell Scripting - Part 1](/A-Tutorials/tutorial10.md) |
 | - Shell Variables |  | Tutorial 10 (Due Friday, April 21 @ 11:59 PM) (2.5%) |
 | - echo and read commands |  |  |
 | - Positional Parameters |  |  |
@@ -128,7 +128,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Additional Shell Scripting: | **Week 12 Lecture Slides:** [PDF](/slides/OSL640-Week12.pdf) \| [PPTX](/slides/OSL640-Week12.pptx) | [Tutorial 12: Shell Scripting (Part 2)](/A-Tutorials/tutorial12.md) |
+| Additional Shell Scripting: | **Week 12 Lecture Slides:** [PDF](/slides/OSL640-Week12.pdf) \| [PPTX](/slides/OSL640-Week12.pptx) | [Tutorial 12: Shell Scripting - Part 2](/A-Tutorials/tutorial12.md) |
 | - if - elif - else statement |  | Tutorial 12 (Due Friday, April 21 @ 11:59 PM) (2.5%) |
 | - for loop revisited |  |  |
 | - while loop statement | |  |
@@ -142,12 +142,12 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-|  |  | Quiz 3 (6.6%) |
+| Presentations |  | Quiz 3 (6.6%) |
 |  |  | Presentation (20%) |
 
 ### Week 14
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-|  | | Presentation (20%) |
+| Presentations | | Presentation (20%) |
 |  | | Report Due (15%) |

@@ -397,7 +397,7 @@ Your instructor may take-up these questions during class. It is up to the studen
 
 **Review Questions:**
 
-**Part A: Display Results from Using the sed Utility**
+### Part A: Display Results from Using the sed Utility
 
 Note the contents from the following tab-delimited file called **~osl640/stuff.txt**: (this file pathname exists for checking your work)
 
@@ -421,7 +421,7 @@ Write the results of each of the following Linux commands for the above-mentione
   3. `sed '/the/ d' ~osl640/stuff.txt`
   4. `sed 's/line/NUMBER/g' ~osl640/stuff.txt`
 
-**Part B: Writing Linux Commands Using the sed Utility**
+### Part B: Writing Linux Commands Using the sed Utility
 
 Write a single Linux command to perform the specified tasks for each of the following questions.
 
@@ -430,7 +430,7 @@ Write a single Linux command to perform the specified tasks for each of the foll
   3. Write a Linux sed command to display only lines that end with a digit for the file: **~osl640/stuff.txt**
   4. Write a Linux sed command to save lines that match the pattern “line” (upper or lowercase) for the file: **~osl640/stuff.txt** and save results (overwriting previous contents) to: **~/results.txt**
 
-**Part C: Writing Linux Commands Using the awk Utility**
+### Part C: Writing Linux Commands Using the awk Utility
 
 Note the contents from the following tab-delimited file called **~osl640/stuff.txt**: (this file pathname exists for checking your work)
 
@@ -455,7 +455,7 @@ Finally, line 10
   4. `awk ‘$1 ~ /This/ {print $3,$2}’ ~osl640/stuff.txt`
 
 
-**Part D: Writing Linux Commands Using the awk Utility**
+### Part D: Writing Linux Commands Using the awk Utility
 
 Write a single Linux command to perform the specified tasks for each of the following questions.
 

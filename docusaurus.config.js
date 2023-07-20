@@ -5,7 +5,7 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'OSL640 Course Title',
+  title: 'OSL640 - Introduction to Open Source Systems',
   tagline: 'OSL640 Tag/Keyword',
   url: 'https://Seneca-ICTOER.github.io/',
   baseUrl: '/OSL640/',
@@ -17,7 +17,7 @@ module.exports = {
   projectName: 'OSL640',
   themeConfig: {
     navbar: {
-      title: 'OSL640 Course Title',
+      title: 'OSL640 - Introduction to Open Source Systems',
       logo: {
         alt: 'Seneca College',
         src: 'img/logo.svg',
@@ -31,7 +31,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'OSL640 Course Title',
+          title: 'OSL640 - Introduction to Open Source Systems',
           items: [
             {
               label: 'Contents',

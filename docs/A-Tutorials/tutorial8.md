@@ -165,8 +165,9 @@ The filename **~/.bash_history** stores recently executed command lines
 
 _Examples of commands that use command history:_
 
+| Command | Command History |
+| --- | --- |
 | **up arrow** or **down arrow** |	move to **previous** command or **next** command within Bash shell prompt |
-| :--- | :--- |
 | **fc -l** |	display last **16** commands |
 | **history \| more** |	display all stored commands |
 | **!num** |	**re-execute** an issued command number by command number (determined from history command) |
@@ -214,15 +215,6 @@ ls -li ~/links/data-file.txt
 ![Hard link inode 1](/img/Hard-link-inode1.png)
 
 **Hard links** share the same **i-node** with regular files on a Unix / Linux filesystem.
-
-  8. Issue the following Linux command:
-
-```bash
-ls -li ~/links/data-file.txt
-```
-
-   - View the **i-node** number for this file. What does this _i-node_ number represent?
-   - We will now create a **hard link** file to demonstrate how creating hard links are useful for **back-ups**.
 
   9. Issue the following Linux command to create the following **hard link** in the same directory:
 
@@ -625,7 +617,7 @@ kill -9 PID
 
 In the next investigation, you will learn how to **create aliases** and **view command history** on your Matrix server.
 
-## Investigation 3: Aliases / Command History
+## Investigation 3: Aliases and Command History
 
 In this investigation, you will learn how to **manage aliases** and **Linux command history** on your Matrix account.
 

@@ -651,7 +651,7 @@ ls /bin/???? | tee unsort.txt | sort | tee sort.txt | grep r | tee match.txt | h
   18. Change to your **home** directory.
   19. Remove the **~/redirect** directory and its contents.
 
-      - In the next investigation, you will learn various techniques to issue **multiple Linux commands** on the same line, or issue a **single Linux command over multiple lines.**
+In the next investigation, you will learn various techniques to issue **multiple Linux commands** on the same line, or issue a **single Linux command over multiple lines.**
 
 ## Investigation 3: Issuing Multiple Unix/Linux Commands
 

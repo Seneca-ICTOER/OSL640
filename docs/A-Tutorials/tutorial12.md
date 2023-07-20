@@ -182,7 +182,7 @@ In this investigation, you will learn additional control-flow statements to allo
   4. Issue a Linux command to change to the **advanced** directory.
   5. Issue a Linux command to confirm you are located in the **advanced** directory.
 
-In **tutorial 10**, you learned how to use the **if** control-flow statement. You will now learn to use the **if-else** statement to take two different actions based on if the condition tests either TRUE or FALSE.
+        + In **tutorial 10**, you learned how to use the **if** control-flow statement. You will now learn to use the **if-else** statement to take two different actions based on if the condition tests either TRUE or FALSE.
 
   6. Use a text editor like vi or nano to create the text file called **if-4.bash** (eg. `vi if-4.bash`)
   7. Enter the following lines in your shell script:
@@ -758,6 +758,8 @@ mv ~/.bash_profile.bk ~/.bash_profile
   14. **Login** again to your matrix account.
 
       - What did you notice this time?
+
+  15. After you complete the _Linux Practice Questions_ section to get additional practice.
 
 ## Further Study
 

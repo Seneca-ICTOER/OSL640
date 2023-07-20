@@ -124,7 +124,7 @@ Example of using **groups**. ^
 
 Example of using **or** condition with **groups**. ^
 
-## Investigation 1: Simple & Complex Regular Expressions
+## Investigation 1: Simple and Complex Regular Expressions
 
 **ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 9) is by Friday, April 21 @ 11:59 PM (Week 14).**
 
@@ -518,7 +518,7 @@ that you already learned in this course.
 
 You can proceed to INVESTIGATION 3
 
-## Investigation 3: Other Commands Using Regular Expressions
+## Investigation 3: Other Commands That Use Regular Expressions
 
 In this investigation, you will see commands other than **grep** or **egrep** that can use regular expressions.
 
@@ -596,6 +596,7 @@ vi large-file.txt
 
 ![Other re 3](/img/Other-re-3.png)
 
+   - Entering **/uli101** in the **vi** command can search for the string "**uli101**". This is just **sample output**, you will be searching for **osl640** instead.
    - Entering **/osl640** in the **vi** command can search for the string "**osl640**".
    - Let's **search** for the **osl640** pattern, and **replace** it in capitals (i.e **OSL640**).
    - In vi, to issue a command, you need to enter **LAST LINE** MODE then issue a command.
@@ -611,7 +612,7 @@ vi large-file.txt
 
   15. Type the following (in uppercase letters) and press **ENTER**: `/OSL640`
 
-   - You should notice the pattern "**OSL640**" highlighted for ALL occurrences in this text file.
+       - You should notice the pattern "**OSL640**" highlighted for ALL occurrences in this text file.
 
 ![Other re 4](/img/Other-re-4.png)
 
@@ -630,7 +631,7 @@ The purpose of this section is to obtain **extra practice** to help with **quizz
 
 ### Review Questions: Simple & Complex Regular Expressions
 
-Here is a link to the [MS Word Document of ALL of the questions](https://matrix.senecacollege.ca/~osl640/questions/osl640_command_practice_9a.docx) displayed below but with extra room to answer on the document to simulate a quiz
+Here is a link to the [MS Word Document of ALL of the questions](/files/osl640_command_practice_9a.docx) displayed below but with extra room to answer on the document to simulate a quiz
 
 Your instructor may take-up these questions during class. It is up to the student to attend classes in order to obtain the answers to the following questions. Your instructor will NOT provide these answers in any other form (eg. e-mail, etc).
 

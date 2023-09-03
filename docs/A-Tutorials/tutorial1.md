@@ -81,7 +81,7 @@ You will be using this account for the following reasons:
 
 ### Connecting to the Seneca GlobalProtect Student VPN
 
-Seneca College is "rolling-out" additional measures to improve **network security**. One of these measures is to implement **multi-factored authentication**. As of **September 2020**, all Seneca College students are required to connect to the **Seneca GlobalProtect Student VPN** in order to be able to connect to their **Matrix** Linux account.
+Seneca College is "rolling-out" additional measures to improve **network security**. One of these measures is to implement **multi-factored authentication**. All Seneca College students are required to connect to the **Seneca GlobalProtect Student VPN** in order to be able to connect to their **Matrix** Linux account.
 
 **Multi-factor authentication** _is an electronic authentication method in which a computer user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something the user and only the user knows). Reference: https://en.wikipedia.org/wiki/Multi-factor_authentication_
 
@@ -107,7 +107,7 @@ You can also click on the following link to **download** and **install** a graph
 
 ## Investigation 1: Accessing Your Matrix Linux Account
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 1) is by March 10 @ 11:59 PM (Week 8).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 1) is by November 3 @ 11:59 PM (Week 8).**
 
 It is essential that you complete these Weekly Tutorials fully and on time. These are your major learning tool in the course. There are no late marks.
 

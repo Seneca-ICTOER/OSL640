@@ -189,7 +189,7 @@ There are **3 methods** to make those special characters **act only like text ch
 
 ## Investigation 1: Absolute, Relative, and Relative-To-Home Pathnames
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 3) is by Friday, March 10 @ 11:59 PM (Week 8).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 3) is by Friday, November 3 @ 11:59 PM (Week 8).**
 
 The best way to learn about different types of file pathnames is to use them while issuing Linux commands and see which pathnames (or combination of pathnames) is the **most efficient** (i.e. requiring the **least number of keystrokes**).
 

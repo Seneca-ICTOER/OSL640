@@ -175,7 +175,7 @@ _Examples of commands that use command history:_
 
 ## Investigation 1: Linking Files
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 8) is by Friday, April 21 @ 11:59 PM (Week 14).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 8) is by Wednesday, December 13 @ 11:59 PM (Week 14).**
 
 In this investigation, you will learn how to create **hard links** and **symbolic links** on your Matrix account, and observe the advantages and limitations of using both types of links.
 

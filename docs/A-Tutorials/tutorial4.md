@@ -205,7 +205,7 @@ Setting **umask** for newly-created **regular files** ^
 
 ## Investigation 1: Numbering Conversions
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 4) is by Friday, March 10 @ 11:59 PM (Week 8).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 4) is by Friday, November 3 @ 11:59 PM (Week 8).**
 
 For this investigation, we will NOT be logged into our Matrix account, but it is recommended to have an **MS Word document** open to manually perform numbering conversions.
 

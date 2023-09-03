@@ -83,7 +83,7 @@ When you log into your Matrix account, you are automatically directed to your **
 
 ## Investigation 1: Creating and Managing Directories
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 2) is by March 10 @ 11:59 PM (Week 8).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 2) is by November 3 @ 11:59 PM (Week 8).**
 
 In this investigation, you will learn how to **create**, **navigate**, **list directory contents** and **remove directories** in your Matrix account.
 

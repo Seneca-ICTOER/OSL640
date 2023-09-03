@@ -113,7 +113,7 @@ _A live CD (also live DVD, live disc, or live operating system) is a complete bo
 
 ## Investigation 1: Creating A Red Hat Account And Downloading The ISO
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 7) is by Friday, April 21 @ 11:59 PM (Week 14).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 7) is by Wednesday, December 13 @ 11:59 PM (Week 14).**
 
 In this investigation, you will first create a Red Hat account and download the install medium (ISO). This is required to install Red Hat as a virtual machine in INVESTIGATION 2. Be sure to remember your login and password.
 

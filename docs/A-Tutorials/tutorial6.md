@@ -136,7 +136,7 @@ Viewing email with file attachment in **Seneca email account**.
 
 ## Investigation 1: File Transfer (Secure Copy)
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 6) is by Friday, March 10 @ 11:59 PM (Week 8).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 6) is by Friday, November 3 @ 11:59 PM (Week 8).**
 
 The **SSH** package on your _home computer_ and on the _Matrix Linux server_ contain a **suite** (i.e. collection) of secure utilities including **ssh** and **scp**.
 

@@ -11,7 +11,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Course introduction | **Week 1 Lecture Slides:** [PDF](/slides/OSL640-Week1.pdf) \| [PPTX](/slides/OSL640-Week1.pptx) | [Tutorial 1 - Using Your Matrix Account](/A-Tutorials/tutorial1.md) |
+| Course introduction | **Week 1 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vRBI-uHRn9VzTFfZe79fQinnQXZfZsI-6nxc9w_Ywj38SPlj_Ct8MkXt2lc4LlHABd83ahrH3B8vrlI/pub?start=false&loop=false&delayms=5000)  | [Tutorial 1 - Using Your Matrix Account](/A-Tutorials/tutorial1.md) |
 | Course Resources/Evaluation/Policies | **Links to Windows SSH clients:** (Access Matrix from home): [SSH/SFTP](https://www.sfsu.edu/ftp/win/ssh/SSHSecureShellClient-3.2.9.exe) \| [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) \| [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download) \| [MovaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) | Tutorial 1 (Due Friday, November 3 @ 11:59 PM) (2.5%) |
 | Unix/Linux Background |  | |
 | Open source philosophy |  |  |
@@ -24,7 +24,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Unix file system | **Week 2 Lecture Slides:** [PDF](/slides/OSL640-Week2.pdf) \| [PPTX](/slides/OSL640-Week2.pptx) | [Tutorial 2: Unix / Linux File Management](/A-Tutorials/tutorial2.md) |
+| Unix file system | **Week 2 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vTi0KevaXc6Tb4dSdamm7WGLo1rjrHFZNHyApOuAJMcKnCE2FSwxDRfG9MZIJoGmtfYYZhyu1igkt3f/pub?start=false&loop=false&delayms=5000) | [Tutorial 2: Unix / Linux File Management](/A-Tutorials/tutorial2.md) |
 | File types and file naming | **Reference Sheet:** [Nano Reference Sheet (PDF)](http://www.cheat-sheets.org/saved-copy/Nano_Cheat_Sheet.pdf) | Tutorial 2 (Due Friday, November 3 @ 11:59 PM) (2.5%) |
 | Basic file system commands: (pwd,cd,tree,ls,mkdir,rmdir,mv,cp,rm, man) | **Reference Sheet:** [Vi Reference Sheet (PDF)](https://www.smashingmagazine.com/2010/05/vi-editor-linux-terminal-cheat-sheet-pdf/) |  |
 | Text editing |  |  |
@@ -34,7 +34,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Absolute and relative pathnames | **Week 3 Lecture Slides:** [PDF](/slides/OSL640-Week3.pdf) \| [PPTX](/slides/OSL640-Week3.pptx) | [Tutorial 3: Advanced File Management and Quoting Special Characters](/A-Tutorials/tutorial3.md) |
+| Absolute and relative pathnames | **Week 3 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vQI0rmg54IB3EVcOdyMLVNL0tu1P_yXU6D721ZgEpz6Qggl8NwLCG54Xpnwl6xhNHZBIom1IOsvELGC/pub?start=false&loop=false&delayms=5000) | [Tutorial 3: Advanced File Management and Quoting Special Characters](/A-Tutorials/tutorial3.md) |
 | File name expansion |  | Tutorial 3 (Due Friday, November 3 @ 11:59 PM) (2.5%) |
 | Shell basics |  |  |
 | Command execution in detail |  | |

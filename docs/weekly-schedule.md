@@ -46,7 +46,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Data Representation: (Binary, octal, decimal, and hexadecimal number systems) | **Week 4 Lecture Slides:** [PDF](/slides/OSL640-Week4.pdf) \| [PPTX](/slides/OSL640-Week4.pptx) | [Tutorial 4: Data Representation, Numbering Conversion, and File Permissions](/A-Tutorials/tutorial4.md) |
+| Data Representation: (Binary, octal, decimal, and hexadecimal number systems) | **Week 4 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vTIRkgRxfDh_GRVIhzq8gS9-XdWcPTWSc6-71E-p4tYRQq4IxM6z-X0Ub4iYjAcpQoEQsvrlGXSiVXG/pub?start=false&loop=false&delayms=5000) | [Tutorial 4: Data Representation, Numbering Conversion, and File Permissions](/A-Tutorials/tutorial4.md) |
 | Number conversions | | Tutorial 4 (Due Friday, November 3 @ 11:59 PM) (2.5%) |
 | Unix file permissions | | Quiz 1 (6.6%) |
 
@@ -54,7 +54,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| stdin, stdout, stderr | **Week 5 Lecture Slides:** [PDF](/slides/OSL640-Week5.pdf) \| [PPTX](/slides/OSL640-Week5.pptx) | [Tutorial 5: Redirection](/A-Tutorials/tutorial5.md) |
+| stdin, stdout, stderr | **Week 5 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vTyKcrBGki65F4Md8ZXK9nhLblzp4DXT_KtbveOfLqINBA_u2AeofSOeZiM3PKE0Dzwi__DsnZ46yrl/pub?start=false&loop=false&delayms=5000) | [Tutorial 5: Redirection](/A-Tutorials/tutorial5.md) |
 | Simple filter commands: (head,tail,cut,sort,tr,wc) |  | Tutorial 5 (Due Friday, November 3 @ 11:59 PM) (2.5%) |
 | grep utility Redirection and piping |  |  |
 | /dev/null file |  | |
@@ -63,14 +63,14 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| scp and sftp utilities | **Week 6 Lecture Slides:** [PDF](/slides/OSL640-Week6.pdf) \| [PPTX](/slides/OSL640-Week6.pptx) | [Tutorial 6: File Transfer and Sending Email](/A-Tutorials/tutorial6.md) |
+| scp and sftp utilities | **Week 6 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vT9xH0TQ-IYBBEx10WEqzEVjkGjk5B93_maaFyx2ItZpRrwmqsc-UvJdARqPRPJ8MvfNWvohozzAEAN/pub?start=false&loop=false&delayms=5000) |[Tutorial 6 - File Transfer and Sending Email Messages](/A-Tutorials/tutorial6.md) |
 | Sending email from command line |  | Tutorial 6 (Due Friday, November 3 @ 11:59 PM) (2.5%) |
 
 ### Week 7
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Linux Installation Methods | **Week 7 Lecture Slides:** [PDF](/slides/OSL640-Week7.pdf) \| [PPTX](/slides/OSL640-Week7.pptx) | [Tutorial 7 - Installing Linux, Live Linux, and Virtualization](/A-Tutorials/tutorial7.md) |
+| Linux Installation Methods | **Week 7 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vRvAjG1mqrO7osJh4C0FsaPH0sMulmPu06mEgeEzflMU1Q6Dud0Nk92FVSHjEAEUgyqvU23Nb-2dKrR/pub?start=false&loop=false&delayms=5000) | [Tutorial 7 - Installing Linux, Live Linux, and Virtualization](/A-Tutorials/tutorial7.md) |
 | Linux Installation Considerations |  | Tutorial 7 (Due Wednesday, December 13 @ 11:59 PM) (2.5%) |
 | Virtualization |  | Quiz 2 (6.6%) |
 | System Administration Commands: (su,sudo,visudo,ping,dnf) |  | [Project](/B-Project/project.md) |
@@ -85,7 +85,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Filesystem links | **Week 8 Lecture Slides:** [PDF](/slides/OSL640-Week8.pdf) \| [PPTX](/slides/OSL640-Week8.pptx) | [Tutorial 8: Linking Files, Managing Process, Aliases, and Command History](/A-Tutorials/tutorial8.md) |
+| Filesystem links | **Week 8 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vSSPxaTaUF7ZCV_cwhwMYjNNOKhAST4O6lcM7POzX0W0FsuLebeJQ1jw1SSeB6yPSPmiVPgDsG4p1bm/pub?start=false&loop=false&delayms=5000) | [Tutorial 8: Linking Files, Managing Process, Aliases, and Command History](/A-Tutorials/tutorial8.md) |
 | Hard and symbolic links |  | Tutorial 8 (Due Wednesday, December 13 @ 11:59 PM) (2.5%) |
 | Process management |  | Test 1 (15%) |
 | Aliases |  |  |
@@ -95,7 +95,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Regular expressions basics: | **Week 9 Lecture Slides:** [PDF](/slides/OSL640-Week9.pdf) \| [PPTX](/slides/OSL640-Week9.pptx) | [Tutorial 9: Regular Expressions](/A-Tutorials/tutorial9.md) |
+| Regular expressions basics: | **Week 9 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vSM9_a_lSCuff9TnL8fHWgw3JKQgn0HxHdctu7D07AAiuU_h6q1iwMDFgO2SOqmNNRSMBk2GoLJOYmb/pub?start=false&loop=false&delayms=5000) | [Tutorial 9: Regular Expressions](/A-Tutorials/tutorial9.md) |
 | - Literal matching |  | Tutorial 9 (Due Wednesday, December 13 @ 11:59 PM) (2.5%) |
 | - Character classes |  |  |
 | - . wildcard |  | |
@@ -107,7 +107,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Introduction to Shell Scripting: | **Week 10 Lecture Slides:** [PDF](/slides/OSL640-Week10.pdf) \| [PPTX](/slides/OSL640-Week10.pptx) | [Tutorial 10: Shell Scripting - Part 1](/A-Tutorials/tutorial10.md) |
+| Introduction to Shell Scripting: | **Week 10 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vQrCEgWUojoZ9jii3WKdk3Ntjqn3xUVogXKmk7MJQtvLz0K7z5-PXjkOzFSwV8_P3k4tR2ODqp-rFA7/pub?start=false&loop=false&delayms=5000) | [Tutorial 10: Shell Scripting - Part 1](/A-Tutorials/tutorial10.md) |
 | - Shell Variables |  | Tutorial 10 (Due Wednesday, December 131 @ 11:59 PM) (2.5%) |
 | - echo and read commands |  |  |
 | - Positional Parameters |  |  |
@@ -120,7 +120,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Text Manipulation: | **Week 11 Lecture Slides:** [PDF](/slides/OSL640-Week11.pdf) \| [PPTX](/slides/OSL640-Week11.pptx) | [Tutorial 11: Sed and Awk Utilities](/A-Tutorials/tutorial11.md) |
+| Text Manipulation: | **Week 11 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vT1rWx6t6rPEPpr-Zgj7-WCFwbX41RHbo_1jPDO7ouNQ_62Jxkog8U8c0Ltmc7jnNWjCj6-dx4gE35n/pub?start=false&loop=false&delayms=5000) | [Tutorial 11: Sed and Awk Utilities](/A-Tutorials/tutorial11.md) |
 | - Using the sed Utility |  | Tutorial 11 (Due Wednesday, December 13 @ 11:59 PM) (2.5%) |
 | - Using the awk Utility |  |  |
 
@@ -128,7 +128,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Additional Shell Scripting: | **Week 12 Lecture Slides:** [PDF](/slides/OSL640-Week12.pdf) \| [PPTX](/slides/OSL640-Week12.pptx) | [Tutorial 12: Shell Scripting - Part 2](/A-Tutorials/tutorial12.md) |
+| Additional Shell Scripting: | **Week 12 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vQc1fSeMoteJ80mDyjt3HBpIU-gXTi3xsuTQdsEzvYux4POe8amlEgUxHB96lQt6t8_4takdOlONxIw/pub?start=false&loop=false&delayms=5000) | [Tutorial 12: Shell Scripting - Part 2](/A-Tutorials/tutorial12.md) |
 | - if - elif - else statement |  | Tutorial 12 (Due Wednesday, December 13 @ 11:59 PM) (2.5%) |
 | - for loop revisited |  |  |
 | - while loop statement | |  |

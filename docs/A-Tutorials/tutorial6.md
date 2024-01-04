@@ -50,7 +50,7 @@ The **ssh** command can be used to run and view commands on **remote computer** 
 _Command Usage:_
 
 ```bash
-ssh username@matrix.senecacollege.ca ls -l
+ssh username@matrix.senecapolytechnic.ca ls -l
 ```
 
 You will be prompted for your Matrix account password, then the contents of your home directory in your remote Matrix account will be displayed on your local computer's terminal.
@@ -136,7 +136,7 @@ Viewing email with file attachment in **Seneca email account**.
 
 ## Investigation 1: File Transfer (Secure Copy)
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 6) is by Friday, November 3 @ 11:59 PM (Week 8).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 6) is by Friday, March 8 @ 11:59 PM (Week 8).**
 
 The **SSH** package on your _home computer_ and on the _Matrix Linux server_ contain a **suite** (i.e. collection) of secure utilities including **ssh** and **scp**.
 
@@ -155,7 +155,7 @@ You will also learn how to issue the **ssh** command to run commands on your **r
   - In the command terminal, enter the following command: 
 
 ```bash
-ssh senecausername@matrix.senecacollege.ca
+ssh senecausername@matrix.senecapolytechnic.ca
 ```
 
 **MacOSX:**
@@ -164,7 +164,7 @@ ssh senecausername@matrix.senecacollege.ca
   - In the terminal, enter the following command: 
 
 ```bash
-ssh senecausername@matrix.senecacollege.ca
+ssh senecausername@matrix.senecapolytechnic.ca
 ```
 
 **Linux:**
@@ -173,7 +173,7 @@ ssh senecausername@matrix.senecacollege.ca
   - In the terminal, enter the following command: 
 
 ```bash
-ssh senecausername@matrix.senecacollege.ca
+ssh senecausername@matrix.senecapolytechnic.ca
 ```
 
   3. **NOTE:** Make certain to open a **command-line terminal** and NOT a graphical SSH application for this tutorial.
@@ -240,7 +240,7 @@ cd local
   19. Issue the following Linux command to copy the **other.txt** file from your local machine to your remote Matrix server (replace yoursenecaid is YOUR Seneca ID and **ADD A COLON : TO THE END OF THE COMMAND**): 
 
 ```bash
-scp other.txt yoursenecaid@matrix.senecacollege.ca:
+scp other.txt yoursenecaid@matrix.senecapolytechnic.ca:
 ```
 
   20. When prompted, enter your **Matrix password.**
@@ -250,7 +250,7 @@ scp other.txt yoursenecaid@matrix.senecacollege.ca:
   21. Issue the following command (using your matrix username):
 
 ```bash
-ssh yoursenecaid@matrix.senecacollege.ca ls -l other.txt
+ssh yoursenecaid@matrix.senecapolytechnic.ca ls -l other.txt
 ```
 
   22. When prompted, **enter your password** and press **ENTER**.
@@ -265,7 +265,7 @@ ssh yoursenecaid@matrix.senecacollege.ca ls -l other.txt
   23. Issue the following Linux command (replace yoursenecaid is YOUR Seneca ID). The period "." as **second argument** represents your current directory on your local computer):
 
 ```bash
-scp yoursenecaid@matrix.senecacollege.ca:remote/myfile.txt .
+scp yoursenecaid@matrix.senecapolytechnic.ca:remote/myfile.txt .
 ```
 
   24. Issue the `dir` or `ls` command (depending on the OS of your local computer) to confirmed your properly copied that file from Matrix.
@@ -276,7 +276,7 @@ scp yoursenecaid@matrix.senecacollege.ca:remote/myfile.txt .
       - Issue the following Linux command to copy the **mytextfile.txt** file from your local machine to your remote Matrix server (replace yoursenecaid is YOUR Seneca ID and DO NOT INCLUDE THE : at the end of the command so see what happens):
 
 ```bash
-scp mytextfile.txt yoursenecaid@matrix.senecacollege.ca
+scp mytextfile.txt yoursenecaid@matrix.senecapolytechnic.ca
 ```
 
    - Did you notice anything different (i.e. no password)?
@@ -284,7 +284,7 @@ scp mytextfile.txt yoursenecaid@matrix.senecacollege.ca
   28. Issue the following command (using your matrix username):
 
 ```bash
-ssh yoursenecaid@matrix.senecacollege.ca ls -l mytextfile.txt
+ssh yoursenecaid@matrix.senecapolytechnic.ca ls -l mytextfile.txt
 ```
 
   29. When prompted, enter your password and press ENTER.
@@ -294,13 +294,13 @@ ssh yoursenecaid@matrix.senecacollege.ca ls -l mytextfile.txt
   30. Issue the following command to properly copy that same file to your Matrix server:
 
 ```bash
-scp mytextfile.txt yoursenecaid@matrix.senecacollege.ca:
+scp mytextfile.txt yoursenecaid@matrix.senecapolytechnic.ca:
 ```
 
   31. Issue the following command to confirm that it was remotely copied to your **home** directory in Matrix:
 
 ```bash
-ssh yoursenecaid@matrix.senecacollege.ca ls -l /home/yoursenecaid/mytextfile.txt
+ssh yoursenecaid@matrix.senecapolytechnic.ca ls -l /home/yoursenecaid/mytextfile.txt
 ```
 
    - Do you see the output for the detailed file listing of **mytextfile.txt**?
@@ -309,13 +309,13 @@ ssh yoursenecaid@matrix.senecacollege.ca ls -l /home/yoursenecaid/mytextfile.txt
   32. Issue the following command to copy the **other.txt** file on your local computer to the **~/remote** directory in Matrix renaming it as **different.txt**:
 
 ```bash
-scp other.txt yoursenecaid@matrix.senecacollege.ca:remote/different.txt
+scp other.txt yoursenecaid@matrix.senecapolytechnic.ca:remote/different.txt
 ```
 
   33. Issue the following command to confirm that the file was remotely copied to your **~/remote** directory in Matrix with a different filename:
 
 ```bash
-ssh yoursenecaid@matrix.senecacollege.ca ls -l /home/yoursenecaid/remote/different.txt
+ssh yoursenecaid@matrix.senecapolytechnic.ca ls -l /home/yoursenecaid/remote/different.txt
 ```
 
    - Were you able to properly copy this file?
@@ -324,7 +324,7 @@ ssh yoursenecaid@matrix.senecacollege.ca ls -l /home/yoursenecaid/remote/differe
   34. Issue the following:
 
 ```bash
-ssh yoursenecaid@matrix.senecacollege.ca ~osl640/week6-check-2
+ssh yoursenecaid@matrix.senecapolytechnic.ca ~osl640/week6-check-2
 ```
 
    - If you encounter errors, re-run the scp commands to correct and re-run the above command until you receive a congratulations message.
@@ -371,7 +371,7 @@ cd ..
   8. Issue the following command to start an **sftp** session (note: yoursenecaid is YOUR Seneca ID):
 
 ```bash
-sftp yoursenecaid@matrix.senecacollege.ca
+sftp yoursenecaid@matrix.senecapolytechnic.ca
 ```
 
    - **NOTE:** You may be required to enter **yes** to have the public key shared.
@@ -475,7 +475,7 @@ get thefile.txt
   29. Issue the following Linux command to remotely run a checking script to ensure you created the correct directories and properly transferred those created files:
 
 ```bash
-ssh yoursenecaid@matrix.senecacollege.ca ~osl640/week6-check-3
+ssh yoursenecaid@matrix.senecapolytechnic.ca ~osl640/week6-check-3
 ```
 
   30. If you encounter errors, make corrections and then re-run the checking script until you receive a congratulations message.
@@ -537,7 +537,7 @@ is **NOT** a _Windows_ machine, you can skip this investigation.
   22. Issue the following Linux command to run a checking script to confirm that you transferred the most recently-created textfile to the **remote2** directory in Matrix:
 
 ```bash
-ssh yoursenecaid@matrix.senecacollege.ca ~osl640/week6-check-4
+ssh yoursenecaid@matrix.senecapolytechnic.ca ~osl640/week6-check-4
 ```
 
   23. When prompted, enter your password.

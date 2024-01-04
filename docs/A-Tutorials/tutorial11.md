@@ -106,7 +106,7 @@ awk [-F] 'selection-criteria {action}’ file-name
 
 ## Investigation 1: Using The sed Utility
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 11) is by Wednesday, December 13 @ 11:59 PM (Week 14).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 11) is by Friday, April 19 @ 11:59 PM (Week 14).**
 
 In this investigation, you will learn how to manipulate text using the **sed** utility.
 

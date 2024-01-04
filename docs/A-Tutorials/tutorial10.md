@@ -281,7 +281,7 @@ Example of using the **for** looping control-flow statement.
 
 ## Investigation 1: Creating A Shell Script
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 10) is by Wednesday, December 13 @ 11:59 PM (Week 14).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 10) is by Friday, April 19 @ 11:59 PM (Week 14).**
 
 In this investigation, you will learn how to create and run a **Bash Shell script**.
 

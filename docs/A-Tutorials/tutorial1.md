@@ -48,15 +48,13 @@ description: Tutorial 1 - Using Your Matrix Account
 
 ### Purpose of Having a Matrix Linux Server Account
 
-While attending Seneca College, you will be using many different computer systems. Some of these servers include:
+While attending Seneca Polytechnic, you will be using many different computer systems. Some of these servers include:
 
-**[my.senecacollege.ca](https://my.senecacollege.ca/)**	Learning Content Management System (_Link to Resources / Student Grades / Online Quizzes_)
+**[learn.senecapolytechnic.ca](https://learn.senecapolytechnic.ca/)**	Learning Content Management System (_Link to Resources / Student Grades / Online Quizzes_)
 
-**[ict.senecacollege.ca](https://ict.senecacollege.ca/)**	Course website for same material as ULI101 WIKI (see below)
+**[OSL640 Lab site](https://seneca-ictoer.github.io/OSL640/)**	_Student Notes / Tutorials / Practice Questions / Resources_
 
-**[wiki.cdot.senecacollege.ca](https://wiki.cdot.senecacollege.ca/wiki/Main_Page)**	_Student Notes / Tutorials / Practice Questions / Resources_
-
-**[matrix.senecacollege.ca](https://matrix.senecacollege.ca/)**	Linux Account for "_hands-on Practice_" and Assignment submission
+**[matrix.senecapolytechnic.ca](https://matrix.senecapolytechnic.ca/)**	Linux Account for "_hands-on Practice_" and Assignment submission
 
 Although you need to study concepts throughout this course (slides, etc.), you will also need to get **hands-on practice running Linux commands as well as performing and submitting online tutorials.**
 
@@ -85,7 +83,7 @@ Seneca College is "rolling-out" additional measures to improve **network securit
 
 **Multi-factor authentication** _is an electronic authentication method in which a computer user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something the user and only the user knows). Reference: https://en.wikipedia.org/wiki/Multi-factor_authentication_
 
-You should have received an e-mail message with instructions (also available in course announcements) on how to set up your Smart Phone for multi-factor authentication to connect and validate via the Seneca GlobalProtect Student VPN. **NOTE:** If you haven't installed it yet, please do so by following the ITS instructions here: https://students.senecacollege.ca/spaces/186/it-services/wiki/view/1025/student-vpn
+You should have received an e-mail message with instructions (also available in course announcements) on how to set up your Smart Phone for multi-factor authentication to connect and validate via the Seneca GlobalProtect Student VPN. **NOTE:** If you haven't installed it yet, please do so by following the ITS instructions here: https://students.senecapolytechnic.ca/spaces/186/it-services/wiki/view/1024/vpn
 
 In the next investigation, you will learn how to **connect** to and **login** to your Matrix server account from a remote computer such as your **home desktop computer, laptop** or **tablet** computer.
 
@@ -99,7 +97,7 @@ After connecting to the Seneca GlobalProtect Student VPN, you can open a **comma
 in your **Newer Windows 10**, **Mac** or **Linux** computer and issue the following command:
 
 ```bash
-ssh senecauserid@matrix.senecacollege.ca
+ssh senecauserid@matrix.senecapolytechnic.ca
 ```
 
 You can also click on the following link to **download** and **install** a graphical SSH application for your Windows machine: http://www.sfsu.edu/ftp/win/ssh/SSHSecureShellClient-3.2.9.exe
@@ -107,7 +105,7 @@ You can also click on the following link to **download** and **install** a graph
 
 ## Investigation 1: Accessing Your Matrix Linux Account
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 1) is by November 3 @ 11:59 PM (Week 8).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 1) is by March 8 @ 11:59 PM (Week 8).**
 
 It is essential that you complete these Weekly Tutorials fully and on time. These are your major learning tool in the course. There are no late marks.
 
@@ -121,7 +119,7 @@ You will now learn a quick and simple method of connecting to your Matrix accoun
 
   1. Before proceeding, you **MUST** first connect to the Seneca GlobalProtect Student VPN. Make certain that your **Seneca Student VPN is connected.**
 
-        - **NOTE:** If you haven't set this up, refer to the following link for instructions; https://students.senecacollege.ca/spaces/186/it-services/wiki/view/1025/student-vpn
+        - **NOTE:** If you haven't set this up, refer to the following link for instructions; https://students.senecapolytechnic.ca/spaces/186/it-services/wiki/view/1024/vpn
 
         - **NOTE:** You only have to connect to your Seneca student VPN once during the day, or while you are logged into your computer.
 
@@ -139,7 +137,7 @@ The **Seneca Student VPN** service must be connected.
   - In the command terminal, enter the following command: 
 
 ```bash
-ssh senecausername@matrix.senecacollege.ca
+ssh senecausername@matrix.senecapolytechnic.ca
 ```
 
   **macOS:**
@@ -148,7 +146,7 @@ ssh senecausername@matrix.senecacollege.ca
   - In the terminal, enter the following command: 
 
 ```bash
-ssh senecausername@matrix.senecacollege.ca
+ssh senecausername@matrix.senecapolytechnic.ca
 ```
 
   **Linux:**
@@ -157,7 +155,7 @@ ssh senecausername@matrix.senecacollege.ca
   - In the terminal, enter the following command: 
 
 ```bash
-ssh senecausername@matrix.senecacollege.ca
+ssh senecausername@matrix.senecapolytechnic.ca
 ```
 
 4. When connecting securely for the **first time,** a **dialog box** will appear to share a **"public key"** with your Matrix account in order to make your interaction between your workstation and the remote Linux server secure within the network (i.e. encrypted to prevent unauthorized access by other users)
@@ -176,7 +174,7 @@ ssh senecausername@matrix.senecacollege.ca
        2. You mis-spelled your Matrix **username** (same username that you connect to my.senecacollege.ca)
        3. You have **CAPS LOCK** on by mistake (your username should be **lowercase** only).
        4. You mis-spelled your **password** (same password that you connect to my.senecacollege.ca)
-       5. If you continue to experience the same problems, click on the following link for IT service desk contact info: [IT service desk](https://students.senecacollege.ca/spaces/190/support/wiki/view/1473/contact-its)
+       5. If you continue to experience the same problems, click on the following link for IT service desk contact info: [IT service desk](https://students.senecapolytechnic.ca/spaces/190/support/wiki/view/1473/contact-its)
 
 7. If you entered your password correctly, the **Matrix Linux shell** should appear where you can enter Linux commands.
 

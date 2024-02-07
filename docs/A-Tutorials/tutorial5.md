@@ -351,14 +351,14 @@ This is the file output3.txt
   16. Issue the following Linux command: 
 
 ```bash
-cp ~osl640/cars .
+cp ~osl640/cars.txt .
 ```
 
   17. Issue the **cat** command to view the contents of the **cars** file.
   18. Issue the following Linux command: 
 
 ```bash
-cut -c1-10 cars
+cut -c1-10 cars.txt
 ```
 
    - What did this command do?
@@ -366,7 +366,7 @@ cut -c1-10 cars
   19. Issue the following Linux command: 
 
 ```bash
-cut -f5 cars > field5.txt
+cut -f5 cars.txt > field5.txt
 ```
 
    - What did this command do?
@@ -375,7 +375,7 @@ cut -f5 cars > field5.txt
   20. Issue the following Linux command: 
 
 ```bash
-cut -f1-3 cars > field123.txt
+cut -f1-3 cars.txt > field123.txt
 ```
 
    - What did this command do? (check file contents)
@@ -383,7 +383,7 @@ cut -f1-3 cars > field123.txt
   21. Issue the following Linux command: 
 
 ```bash
-cut -f1,5 cars > field15.txt
+cut -f1,5 cars.txt > field15.txt
 ```
 
    - What did this command do? (check file contents)
@@ -391,7 +391,7 @@ cut -f1,5 cars > field15.txt
   22. Issue the following Linux command: 
 
 ```bash
-wc cars > count.txt
+wc cars.txt > count.txt
 ```
 
    - What information does the **count.txt** file contain?
@@ -399,7 +399,7 @@ wc cars > count.txt
   23. Issue the following Linux command: 
 
 ```bash
-wc -l cars > count1.txt
+wc -l cars.txt > count1.txt
 ```
 
    - What information does the **count1.txt** file contain?
@@ -407,7 +407,7 @@ wc -l cars > count1.txt
   24. Issue the following Linux command: 
 
 ```bash
-wc -w cars > count2.txt
+wc -w cars.txt > count2.txt
 ```
 
    - What information does the **count2.txt** file contain?
@@ -439,7 +439,7 @@ date >> listing.txt
   28. Issue the following Linux command: 
 
 ```bash
-cat listing.txt cars > combined.txt
+cat listing.txt cars.txt > combined.txt
 ```
 
    - What information does the **combined.txt** file contain? Why?
@@ -449,7 +449,7 @@ cat listing.txt cars > combined.txt
   29. Issue the following Linux command: 
 
 ```bash
-cat listing.txt cars murray 2> result.txt
+cat listing.txt cars.txt murray 2> result.txt
 ```
 
    - What is displayed on the monitor? What information does the **result.txt** file contain? Why?
@@ -457,7 +457,7 @@ cat listing.txt cars murray 2> result.txt
   30. Issue the following Linux command: 
 
 ```bash
-cat listing.txt cars murray > myoutput.txt 2> /dev/null
+cat listing.txt cars.txt murray > myoutput.txt 2> /dev/null
 ```
 
    - What is displayed on the monitor? What happened to the error message?
@@ -465,7 +465,7 @@ cat listing.txt cars murray > myoutput.txt 2> /dev/null
   31. Issue the following Linux command: 
 
 ```bash
-cat listing.txt cars murray > myoutput.txt 2> result.txt
+cat listing.txt cars.txt murray > myoutput.txt 2> result.txt
 ```
 
    - What is displayed on the monitor? what do those files contain? Why?

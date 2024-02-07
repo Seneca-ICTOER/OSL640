@@ -79,9 +79,9 @@ You will be using this account for the following reasons:
 
 ### Connecting to the Seneca GlobalProtect Student VPN
 
-Seneca College is "rolling-out" additional measures to improve **network security**. One of these measures is to implement **multi-factored authentication**. All Seneca College students are required to connect to the **Seneca GlobalProtect Student VPN** in order to be able to connect to their **Matrix** Linux account.
+All Seneca Polytechnic students are required to connect to the **Seneca GlobalProtect Student VPN** in order to be able to connect to their **Matrix** Linux account.
 
-**Multi-factor authentication** _is an electronic authentication method in which a computer user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something the user and only the user knows). Reference: https://en.wikipedia.org/wiki/Multi-factor_authentication_
+**Multi-factor authentication** is an electronic authentication method in which a computer user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something the user and only the user knows). Reference: https://en.wikipedia.org/wiki/Multi-factor_authentication_
 
 You should have received an e-mail message with instructions (also available in course announcements) on how to set up your Smart Phone for multi-factor authentication to connect and validate via the Seneca GlobalProtect Student VPN. **NOTE:** If you haven't installed it yet, please do so by following the ITS instructions here: https://students.senecapolytechnic.ca/spaces/186/it-services/wiki/view/1024/vpn
 
@@ -171,9 +171,9 @@ ssh senecausername@matrix.senecapolytechnic.ca
   - **NOTE:** If you encounter an **error message,** this can occur for several reasons:
     
        1. You mis-spelled the **name of the server**
-       2. You mis-spelled your Matrix **username** (same username that you connect to my.senecacollege.ca)
+       2. You mis-spelled your Matrix **username** (same username that you connect to my.senecapolytechni.ca)
        3. You have **CAPS LOCK** on by mistake (your username should be **lowercase** only).
-       4. You mis-spelled your **password** (same password that you connect to my.senecacollege.ca)
+       4. You mis-spelled your **password** (same password that you connect to my.senecapolytechnic.ca)
        5. If you continue to experience the same problems, click on the following link for IT service desk contact info: [IT service desk](https://students.senecapolytechnic.ca/spaces/190/support/wiki/view/1473/contact-its)
 
 7. If you entered your password correctly, the **Matrix Linux shell** should appear where you can enter Linux commands.
@@ -221,7 +221,7 @@ to allow you to connect to the server.
 
   4. Click on the textbox labelled **Hostname** and enter the text: ***matrix***
 
-        - **NOTE**: You can use the hostname **matrix** if you are at Seneca college. If you where located outside Seneca's network, then you would need to enter the full domain name: **matrix.senecacollege.ca**
+        - **NOTE**: You can use the hostname **matrix** if you are at Seneca Polytechnic. If you where located outside Seneca's network, then you would need to enter the full domain name: **matrix.senecapolytechnic.ca**
         - You will be using the latter hostname since you will be connecting to your Matrix account remotely and not within the college.
 
   5. Click on the textbox labelled **User Name** and type your Seneca username (i.e. same as your Seneca userid).
@@ -253,9 +253,9 @@ Dialog Box to Share Public Key on Remote Server ^
    - **NOTE:** If you encounter an **error message,** this can occur for several reasons:
 
         1. You mis-spelled the **name of the server**
-        2. You mis-spelled your Matrix **username** (same username that you connect to ***my.senecacollege.ca***)
+        2. You mis-spelled your Matrix **username** (same username that you connect to ***my.senecacpolytechnic.ca***)
         3. You have **CAPS LOCK** on by mistake (your username should be **lowercase** only).
-        4. You mis-spelled your **password** (same password that you connect to my.senecacollege.ca)
+        4. You mis-spelled your **password** (same password that you connect to my.senecapolytechnic.ca)
 
 ![SSH Login Error](/img/Ssh-login-error.png "SSH Login Error")
 
@@ -622,7 +622,7 @@ Although you are NOT required to learn other short-cut keys, here is a link to a
 
 **Running a Shell Script to Check Student Online Tutorial Participation**
 
-Some Professors will require students successfully perform these online tutorials for marks (within a deadline). In order to confirm that you successfully performed a tutorial, you will be required to run a program (or in later tutorials, several programs) to prove that you successfully completed tasks in a tutorial and get marks.
+Professors will require students successfully perform these online tutorials for marks (within a deadline). In order to confirm that you successfully performed a tutorial, you will be required to run a program (or in later tutorials, several programs) to prove that you successfully completed tasks in a tutorial and get marks.
 
 These programs (known as Shell Scripts) will check your work and offer feedback if you made mistakes, so you can make corrections. Making corrections (i.e. troubleshooting) and re-running these checking programs until you are successful will help students gain "hands-on" experience as well as "trouble-shooting experience.
 

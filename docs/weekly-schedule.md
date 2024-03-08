@@ -12,7 +12,7 @@ description: Weekly Schedule for OSL640
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
 | Course introduction | **Week 1 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vRBI-uHRn9VzTFfZe79fQinnQXZfZsI-6nxc9w_Ywj38SPlj_Ct8MkXt2lc4LlHABd83ahrH3B8vrlI/pub?start=false&loop=false&delayms=5000)  | [Tutorial 1 - Using Your Matrix Account](/A-Tutorials/tutorial1.md) |
-| Course Resources/Evaluation/Policies | **Links to Windows SSH clients:** (Access Matrix from home): [SSH/SFTP](https://www.sfsu.edu/ftp/win/ssh/SSHSecureShellClient-3.2.9.exe) \| [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) \| [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download) \| [MovaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) | Tutorial 1 (Due Friday, March 8 @ 11:59 PM) (2.5%) |
+| Course Resources/Evaluation/Policies | **Links to Windows SSH clients:** (Access Matrix from home): [SSH/SFTP](https://www.sfsu.edu/ftp/win/ssh/SSHSecureShellClient-3.2.9.exe) \| [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) \| [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download) \| [MovaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) | Tutorial 1 (Due Saturday, March 9 @ 11:59 PM) (2.5%) |
 | Unix/Linux Background |  | |
 | Open source philosophy |  |  |
 | Linux GUI and the terminal |  |  |
@@ -25,7 +25,7 @@ description: Weekly Schedule for OSL640
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
 | Unix file system | **Week 2 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vTi0KevaXc6Tb4dSdamm7WGLo1rjrHFZNHyApOuAJMcKnCE2FSwxDRfG9MZIJoGmtfYYZhyu1igkt3f/pub?start=false&loop=false&delayms=5000) | [Tutorial 2: Unix / Linux File Management](/A-Tutorials/tutorial2.md) |
-| File types and file naming | **Reference Sheet:** [Nano Reference Sheet (PDF)](http://www.cheat-sheets.org/saved-copy/Nano_Cheat_Sheet.pdf) | Tutorial 2 (Due Friday, March 8 @ 11:59 PM) (2.5%) |
+| File types and file naming | **Reference Sheet:** [Nano Reference Sheet (PDF)](http://www.cheat-sheets.org/saved-copy/Nano_Cheat_Sheet.pdf) | Tutorial 2 (Due Saturday, March 9 @ 11:59 PM) (2.5%) |
 | Basic file system commands: (pwd,cd,tree,ls,mkdir,rmdir,mv,cp,rm, man) | **Reference Sheet:** [Vi Reference Sheet (PDF)](https://www.smashingmagazine.com/2010/05/vi-editor-linux-terminal-cheat-sheet-pdf/) |  |
 | Text editing |  |  |
 | Common file utilities: (cat,more,less,touch,file,find) |  |  |
@@ -35,7 +35,7 @@ description: Weekly Schedule for OSL640
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
 | Absolute and relative pathnames | **Week 3 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vQI0rmg54IB3EVcOdyMLVNL0tu1P_yXU6D721ZgEpz6Qggl8NwLCG54Xpnwl6xhNHZBIom1IOsvELGC/pub?start=false&loop=false&delayms=5000) | [Tutorial 3: Advanced File Management and Quoting Special Characters](/A-Tutorials/tutorial3.md) |
-| File name expansion |  | Tutorial 3 (Due Friday, March 8 @ 11:59 PM) (2.5%) |
+| File name expansion |  | Tutorial 3 (Due Saturday, March 9 @ 11:59 PM) (2.5%) |
 | Shell basics |  |  |
 | Command execution in detail |  | |
 | Command History |  | |
@@ -47,7 +47,7 @@ description: Weekly Schedule for OSL640
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
 | Data Representation: (Binary, octal, decimal, and hexadecimal number systems) | **Week 4 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vTIRkgRxfDh_GRVIhzq8gS9-XdWcPTWSc6-71E-p4tYRQq4IxM6z-X0Ub4iYjAcpQoEQsvrlGXSiVXG/pub?start=false&loop=false&delayms=5000) | [Tutorial 4: Data Representation, Numbering Conversion, and File Permissions](/A-Tutorials/tutorial4.md) |
-| Number conversions | | Tutorial 4 (Due Friday, March 8 @ 11:59 PM) (2.5%) |
+| Number conversions | | Tutorial 4 (Due Saturday, March 9 @ 11:59 PM) (2.5%) |
 | Unix file permissions | | Quiz 1 (6.6%) |
 
 ### Week 5
@@ -55,7 +55,7 @@ description: Weekly Schedule for OSL640
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
 | stdin, stdout, stderr | **Week 5 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vTyKcrBGki65F4Md8ZXK9nhLblzp4DXT_KtbveOfLqINBA_u2AeofSOeZiM3PKE0Dzwi__DsnZ46yrl/pub?start=false&loop=false&delayms=5000) | [Tutorial 5: Redirection](/A-Tutorials/tutorial5.md) |
-| Simple filter commands: (head,tail,cut,sort,tr,wc) |  | Tutorial 5 (Due Friday, March 8 @ 11:59 PM) (2.5%) |
+| Simple filter commands: (head,tail,cut,sort,tr,wc) |  | Tutorial 5 (Due Saturday, March 9 @ 11:59 PM) (2.5%) |
 | grep utility Redirection and piping |  |  |
 | /dev/null file |  | |
 
@@ -64,7 +64,7 @@ description: Weekly Schedule for OSL640
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
 | scp and sftp utilities | **Week 6 Lecture Slides:** [Web](https://docs.google.com/presentation/d/e/2PACX-1vT9xH0TQ-IYBBEx10WEqzEVjkGjk5B93_maaFyx2ItZpRrwmqsc-UvJdARqPRPJ8MvfNWvohozzAEAN/pub?start=false&loop=false&delayms=5000) |[Tutorial 6 - File Transfer and Sending Email Messages](/A-Tutorials/tutorial6.md) |
-| Sending email from command line |  | Tutorial 6 (Due Friday, March 8 @ 11:59 PM) (2.5%) |
+| Sending email from command line |  | Tutorial 6 (Due Saturday, March 9 @ 11:59 PM) (2.5%) |
 
 ### Week 7
 

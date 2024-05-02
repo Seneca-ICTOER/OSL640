@@ -170,7 +170,7 @@ There is a file that **resets or restores the shell environment** (including shu
 
 ## Investigation 1: Additional Logic Statements
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 12) is by Friday, April 19 @ 11:59 PM (Week 14).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 12) is by Friday, August 16 @ 11:59 PM (Week 14).**
 
 In this investigation, you will learn additional control-flow statements to allow your shell scripts to be even **more adaptable**.
 

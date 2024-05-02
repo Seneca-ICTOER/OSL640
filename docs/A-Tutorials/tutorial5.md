@@ -262,7 +262,7 @@ it will automatically go to the next line" |tr '[a-z]' '[A-Z]'
 
 ## Investigation 1: Basics Of Redirection
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 5) is by March 8 @ 11:59 PM (Week 8).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 5) is by July 5 @ 11:59 PM (Week 8).**
 
 In this investigation, you will learn how to redirect **standard input, standard output** and **standard error** when issuing Unix / Linux commands.
 

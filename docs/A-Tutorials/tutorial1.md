@@ -105,7 +105,7 @@ You can also click on the following link to **download** and **install** a graph
 
 ## Investigation 1: Accessing Your Matrix Linux Account
 
-**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 1) is by March 8 @ 11:59 PM (Week 8).**
+**ATTENTION: The due date for successfully completing this tutorial (i.e. tutorial 1) is by July 5 @ 11:59 PM (Week 8).**
 
 It is essential that you complete these Weekly Tutorials fully and on time. These are your major learning tool in the course. There are no late marks.
 

@@ -142,7 +142,7 @@ description: Weekly Schedule for OSL640
 
 | **Learning Objectives and Tasks** | **References** | **Evaluation** |
 | :--- | :--- | :--- |
-| Presentations |  | Quiz 3 (6.6%) |
+| Presentations |  |  |
 |  |  | Presentation (20%) |
 
 ### Week 14

@@ -731,8 +731,8 @@ echo "The result is: $result"
 echo
 dogFactor=7
 read -p "Please enter your age (in years): " humanYears
-((dogYears = humanYears * dogFactor))
-echo "You age in dog-years is: $dogYears"
+dogYears=$((humanYears * dogFactor))
+echo "Your age in dog-years is: $dogYears"
 echo
 ```
 
